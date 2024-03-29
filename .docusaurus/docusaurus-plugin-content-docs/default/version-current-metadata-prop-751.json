@@ -11,7 +11,7 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Tutorial Intro",
+        "label": "Welcome to the Modern Meadmaking wiki!",
         "href": "/intro",
         "docId": "intro",
         "unlisted": false
@@ -89,14 +89,27 @@
           }
         ],
         "href": "/category/tutorial---extras"
+      },
+      {
+        "type": "link",
+        "label": "Installation",
+        "href": "/faq/",
+        "docId": "faq/index",
+        "unlisted": false
       }
     ]
   },
   "docs": {
+    "faq/index": {
+      "id": "faq/index",
+      "title": "Installation",
+      "description": "The Jellyfin project and its contributors offer a number of pre-built binary packages to assist in getting Jellyfin up and running quickly on multiple systems.",
+      "sidebar": "tutorialSidebar"
+    },
     "intro": {
       "id": "intro",
-      "title": "Tutorial Intro",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "title": "Welcome to the Modern Meadmaking wiki!",
+      "description": "This wiki was migrated from the reddit.com/r/mead wiki on June 12 2023, which itself was started on June 16, 2015.",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/congratulations": {

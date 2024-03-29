@@ -19,5 +19,9 @@
   "previous": {
     "title": "Manage Docs Versions",
     "permalink": "/tutorial-extras/manage-docs-versions"
+  },
+  "next": {
+    "title": "Installation",
+    "permalink": "/faq/"
   }
 }
