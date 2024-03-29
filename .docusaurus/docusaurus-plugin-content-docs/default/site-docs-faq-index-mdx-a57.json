@@ -1,7 +1,7 @@
 {
   "id": "faq/index",
-  "title": "Installation",
-  "description": "The Jellyfin project and its contributors offer a number of pre-built binary packages to assist in getting Jellyfin up and running quickly on multiple systems.",
+  "title": "FAQ",
+  "description": "",
   "source": "@site/docs/faq/index.mdx",
   "sourceDirName": "faq",
   "slug": "/faq/",
@@ -12,13 +12,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "uid": "installation-index",
-    "title": "Installation",
+    "title": "FAQ",
     "hide_table_of_contents": true
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Translate your site",
-    "permalink": "/tutorial-extras/translate-your-site"
+    "title": "Welcome to the Modern Meadmaking wiki!",
+    "permalink": "/intro"
+  },
+  "next": {
+    "title": "Equipment FAQ",
+    "permalink": "/faq/equipment-faq"
   }
 }

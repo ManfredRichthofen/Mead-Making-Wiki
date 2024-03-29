@@ -2,15 +2,15 @@
   "title": "Tutorial - Basics",
   "description": "5 minutes to learn the most important Docusaurus concepts.",
   "slug": "/category/tutorial---basics",
-  "permalink": "/category/tutorial---basics",
+  "permalink": "/fr/category/tutorial---basics",
   "navigation": {
     "previous": {
       "title": "Welcome to the Modern Meadmaking wiki!",
-      "permalink": "/intro"
+      "permalink": "/fr/intro"
     },
     "next": {
       "title": "Create a Page",
-      "permalink": "/tutorial-basics/create-a-page"
+      "permalink": "/fr/tutorial-basics/create-a-page"
     }
   }
 }

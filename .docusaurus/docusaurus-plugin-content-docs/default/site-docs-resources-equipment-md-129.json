@@ -1,0 +1,22 @@
+{
+  "id": "resources/equipment",
+  "title": "Equipment",
+  "description": "",
+  "source": "@site/docs/resources/equipment.md",
+  "sourceDirName": "resources",
+  "slug": "/resources/equipment",
+  "permalink": "/resources/equipment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/resources/equipment.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Equipment"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Resources",
+    "permalink": "/resources/"
+  }
+}

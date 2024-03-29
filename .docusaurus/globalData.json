@@ -11,6 +11,11 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "faq/equipment-faq",
+              "path": "/faq/equipment-faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "faq/index",
               "path": "/faq/",
               "sidebar": "tutorialSidebar"
@@ -21,53 +26,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/tutorial-basics/congratulations",
+              "id": "recipes/index",
+              "path": "/recipes/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/tutorial-basics/create-a-blog-post",
+              "id": "recipes/starter-recipes",
+              "path": "/recipes/starter-recipes",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/tutorial-basics/create-a-document",
+              "id": "resources/equipment",
+              "path": "/resources/equipment",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/tutorial-basics/create-a-page",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/tutorial-basics/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/tutorial-basics/markdown-features",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/tutorial-extras/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/tutorial-extras/translate-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/tutorial---basics",
-              "path": "/category/tutorial---basics",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/tutorial---extras",
-              "path": "/category/tutorial---extras",
+              "id": "resources/index",
+              "path": "/resources/",
               "sidebar": "tutorialSidebar"
             }
           ],

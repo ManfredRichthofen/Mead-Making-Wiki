@@ -36,5 +36,3 @@ The classic template will automatically be added to your project after you run t
 ```bash
 npm init docusaurus@latest my-website classic
 ```
-
-
