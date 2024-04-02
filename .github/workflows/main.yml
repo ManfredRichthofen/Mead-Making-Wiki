@@ -11,7 +11,6 @@ jobs:
   build:
     name: Build Docusaurus
     runs-on: ubuntu-latest
-    secrets: inherit
     steps:
       - uses: actions/checkout@v4
         with:
@@ -20,7 +19,8 @@ jobs:
         with:
           node-version: 18
           cache: npm
-
+      - name: Debug API_ENV
+        run: echo ${{ secrets.API_ENV }}
       - name: Install dependencies
         run: npm install
       - name: Crowdin
