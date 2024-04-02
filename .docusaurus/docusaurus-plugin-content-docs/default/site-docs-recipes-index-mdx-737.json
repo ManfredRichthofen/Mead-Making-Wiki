@@ -1,7 +1,7 @@
 {
   "id": "recipes/index",
   "title": "Recipes",
-  "description": "",
+  "description": "These recipes are only a starting place. There are thousands of mead recipes on the Internet. Ask your local homebrew",
   "source": "@site/docs/recipes/index.mdx",
   "sourceDirName": "recipes",
   "slug": "/recipes/",
@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Equipment FAQ",
-    "permalink": "/faq/equipment-faq"
+    "title": "yeast_selection",
+    "permalink": "/faq/yeast_selection"
   },
   "next": {
-    "title": "Starter Recipes",
-    "permalink": "/recipes/starter-recipes"
+    "title": "Beginner Recipes",
+    "permalink": "/recipes/beginner-recipes/"
   }
 }

@@ -24,9 +24,107 @@
         "items": [
           {
             "type": "link",
-            "label": "Equipment FAQ",
-            "href": "/faq/equipment-faq",
-            "docId": "faq/equipment-faq",
+            "label": "Alternative Nutrient Sources",
+            "href": "/faq/alternative_nutrient_sources",
+            "docId": "faq/alternative_nutrient_sources",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Basic Problems",
+            "href": "/faq/basic_problems",
+            "docId": "faq/basic_problems",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Chemicals",
+            "href": "/faq/chemicals",
+            "docId": "faq/chemicals",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Getting Started",
+            "href": "/faq/getting_started",
+            "docId": "faq/getting_started",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Glass Vs. Plastic",
+            "href": "/faq/glass_vs_plastic",
+            "docId": "faq/glass_vs_plastic",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Headspace",
+            "href": "/faq/headspace",
+            "docId": "faq/headspace",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Honey",
+            "href": "/faq/honey",
+            "docId": "faq/honey",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Hydrometers",
+            "href": "/faq/hydrometer",
+            "docId": "faq/hydrometer",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Illegal Ingredients",
+            "href": "/faq/illegal_ingredients",
+            "docId": "faq/illegal_ingredients",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Infections & Mold",
+            "href": "/faq/infection",
+            "docId": "faq/infection",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "ld_carlson_additives",
+            "href": "/faq/ld_carlson_additives",
+            "docId": "faq/ld_carlson_additives",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "overflow",
+            "href": "/faq/overflow",
+            "docId": "faq/overflow",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Stabilization and Back Sweetening",
+            "href": "/faq/stabilization_and_backsweetening",
+            "docId": "faq/stabilization_and_backsweetening",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Stuck Fermentation",
+            "href": "/faq/stuck_fermentation",
+            "docId": "faq/stuck_fermentation",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "yeast_selection",
+            "href": "/faq/yeast_selection",
+            "docId": "faq/yeast_selection",
             "unlisted": false
           }
         ],
@@ -39,11 +137,41 @@
         "collapsed": true,
         "items": [
           {
-            "type": "link",
-            "label": "Starter Recipes",
-            "href": "/recipes/starter-recipes",
-            "docId": "recipes/starter-recipes",
-            "unlisted": false
+            "type": "category",
+            "label": "Beginner Recipes",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Beginner Cyser",
+                "href": "/recipes/beginner-recipes/cyser",
+                "docId": "recipes/beginner-recipes/cyser",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Beginner Melomel",
+                "href": "/recipes/beginner-recipes/melomel",
+                "docId": "recipes/beginner-recipes/melomel",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Beginner Metheglin",
+                "href": "/recipes/beginner-recipes/metheglin",
+                "docId": "recipes/beginner-recipes/metheglin",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Beginner Traditional",
+                "href": "/recipes/beginner-recipes/traditional",
+                "docId": "recipes/beginner-recipes/traditional",
+                "unlisted": false
+              }
+            ],
+            "href": "/recipes/beginner-recipes/"
           }
         ],
         "href": "/recipes/"
@@ -67,10 +195,58 @@
     ]
   },
   "docs": {
-    "faq/equipment-faq": {
-      "id": "faq/equipment-faq",
-      "title": "Equipment FAQ",
-      "description": "",
+    "faq/alternative_nutrient_sources": {
+      "id": "faq/alternative_nutrient_sources",
+      "title": "Alternative Nutrient Sources",
+      "description": "Add Later",
+      "sidebar": "tutorialSidebar"
+    },
+    "faq/basic_problems": {
+      "id": "faq/basic_problems",
+      "title": "Basic Problems",
+      "description": "Add Later",
+      "sidebar": "tutorialSidebar"
+    },
+    "faq/chemicals": {
+      "id": "faq/chemicals",
+      "title": "Chemicals",
+      "description": "Add Later",
+      "sidebar": "tutorialSidebar"
+    },
+    "faq/getting_started": {
+      "id": "faq/getting_started",
+      "title": "Getting Started",
+      "description": "Add Later",
+      "sidebar": "tutorialSidebar"
+    },
+    "faq/glass_vs_plastic": {
+      "id": "faq/glass_vs_plastic",
+      "title": "Glass Vs. Plastic",
+      "description": "Add Later",
+      "sidebar": "tutorialSidebar"
+    },
+    "faq/headspace": {
+      "id": "faq/headspace",
+      "title": "Headspace",
+      "description": "Add Later",
+      "sidebar": "tutorialSidebar"
+    },
+    "faq/honey": {
+      "id": "faq/honey",
+      "title": "Honey",
+      "description": "Add Later",
+      "sidebar": "tutorialSidebar"
+    },
+    "faq/hydrometer": {
+      "id": "faq/hydrometer",
+      "title": "Hydrometers",
+      "description": "Add Later",
+      "sidebar": "tutorialSidebar"
+    },
+    "faq/illegal_ingredients": {
+      "id": "faq/illegal_ingredients",
+      "title": "Illegal Ingredients",
+      "description": "Add Later",
       "sidebar": "tutorialSidebar"
     },
     "faq/index": {
@@ -79,22 +255,82 @@
       "description": "",
       "sidebar": "tutorialSidebar"
     },
+    "faq/infection": {
+      "id": "faq/infection",
+      "title": "Infections & Mold",
+      "description": "Add Later",
+      "sidebar": "tutorialSidebar"
+    },
+    "faq/ld_carlson_additives": {
+      "id": "faq/ld_carlson_additives",
+      "title": "ld_carlson_additives",
+      "description": "Add Later",
+      "sidebar": "tutorialSidebar"
+    },
+    "faq/overflow": {
+      "id": "faq/overflow",
+      "title": "overflow",
+      "description": "Add Later",
+      "sidebar": "tutorialSidebar"
+    },
+    "faq/stabilization_and_backsweetening": {
+      "id": "faq/stabilization_and_backsweetening",
+      "title": "Stabilization and Back Sweetening",
+      "description": "These are bigger subjects that are often breezed over by online recipes, if mentioned at all.",
+      "sidebar": "tutorialSidebar"
+    },
+    "faq/stuck_fermentation": {
+      "id": "faq/stuck_fermentation",
+      "title": "Stuck Fermentation",
+      "description": "Add Later",
+      "sidebar": "tutorialSidebar"
+    },
+    "faq/yeast_selection": {
+      "id": "faq/yeast_selection",
+      "title": "yeast_selection",
+      "description": "Add Later",
+      "sidebar": "tutorialSidebar"
+    },
     "intro": {
       "id": "intro",
       "title": "Welcome to the Modern Meadmaking wiki!",
       "description": "This wiki was migrated from the reddit.com/r/mead wiki on June 12 2023, which itself was started on June 16, 2015.",
       "sidebar": "tutorialSidebar"
     },
-    "recipes/index": {
-      "id": "recipes/index",
-      "title": "Recipes",
+    "recipes/beginner-recipes/cyser": {
+      "id": "recipes/beginner-recipes/cyser",
+      "title": "Beginner Cyser",
+      "description": "Add Later",
+      "sidebar": "tutorialSidebar"
+    },
+    "recipes/beginner-recipes/index": {
+      "id": "recipes/beginner-recipes/index",
+      "title": "Beginner Recipes",
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "recipes/starter-recipes": {
-      "id": "recipes/starter-recipes",
-      "title": "Starter Recipes",
-      "description": "These recipes are only a starting place. There are thousands of mead recipes on the Internet. Ask your local homebrew shop or members of your club if they have recipes to share. Finally, branch out on your own and experiment!",
+    "recipes/beginner-recipes/melomel": {
+      "id": "recipes/beginner-recipes/melomel",
+      "title": "Beginner Melomel",
+      "description": "Add Later",
+      "sidebar": "tutorialSidebar"
+    },
+    "recipes/beginner-recipes/metheglin": {
+      "id": "recipes/beginner-recipes/metheglin",
+      "title": "Beginner Metheglin",
+      "description": "Add Later",
+      "sidebar": "tutorialSidebar"
+    },
+    "recipes/beginner-recipes/traditional": {
+      "id": "recipes/beginner-recipes/traditional",
+      "title": "Beginner Traditional",
+      "description": "Add Later",
+      "sidebar": "tutorialSidebar"
+    },
+    "recipes/index": {
+      "id": "recipes/index",
+      "title": "Recipes",
+      "description": "These recipes are only a starting place. There are thousands of mead recipes on the Internet. Ask your local homebrew",
       "sidebar": "tutorialSidebar"
     },
     "resources/equipment": {

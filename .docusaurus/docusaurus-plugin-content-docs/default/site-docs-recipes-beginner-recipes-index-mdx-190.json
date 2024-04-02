@@ -1,0 +1,27 @@
+{
+  "id": "recipes/Beginner Recipes/index",
+  "title": "Beginner Recipes",
+  "description": "These recipes are only a starting place. There are thousands of mead recipes on the Internet. Ask your local homebrew shop or members of your club if they have recipes to share. Finally, branch out on your own and experiment!",
+  "source": "@site/docs/recipes/Beginner Recipes/index.mdx",
+  "sourceDirName": "recipes/Beginner Recipes",
+  "slug": "/recipes/Beginner Recipes/",
+  "permalink": "/recipes/Beginner Recipes/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/recipes/Beginner Recipes/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Beginner Recipes",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Recipes",
+    "permalink": "/recipes/"
+  },
+  "next": {
+    "title": "Beginner Cyser",
+    "permalink": "/recipes/Beginner Recipes/cyser"
+  }
+}

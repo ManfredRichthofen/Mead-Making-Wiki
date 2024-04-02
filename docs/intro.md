@@ -14,11 +14,13 @@ This platform should not be used to reproduce copyrighted works or data.
 
 ## Contributing Guide
 
-**Please refer to the Editing Guidelines before editing this wiki. If you abuse editing privileges, you will lose them.**
+**Please refer to the Editing Guidelines before editing this wiki. If you abuse editing privileges, you will lose
+them.**
 
 That said, please help.
 
-If you'd like to contribute, but aren't sure where to start, look no further. There's a list of pages that need content or fleshing out. Please update the list as you complete items.
+If you'd like to contribute, but aren't sure where to start, look no further. There's a list of pages that need content
+or fleshing out. Please update the list as you complete items.
 
 **[docusaurus.new](https://docusaurus.new)**.
 

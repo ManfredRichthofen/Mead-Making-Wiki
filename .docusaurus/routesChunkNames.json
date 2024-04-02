@@ -56,26 +56,98 @@
     },
     "config": "config---5-e-9-4f3"
   },
-  "/-60d": {
+  "/-1fd": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---30-f-c38"
     }
   },
-  "/-8de": {
+  "/-02c": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---935-fcf"
   },
-  "/-113": {
+  "/tags-d7a": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "tags": "tags---tags-559-690"
+  },
+  "/tags/beginner-b75": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---tags-beginnerb-17-b60"
+  },
+  "/tags/faq-845": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---tags-faqdfc-bcd"
+  },
+  "/tags/recipe-2cd": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---tags-recipeade-187"
+  },
+  "/-4a5": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/faq/-0b4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---faq-a-57-73c"
   },
-  "/faq/equipment-faq-7a5": {
+  "/faq/alternative_nutrient_sources-25c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---faq-equipment-faq-8-c-9-e1f"
+    "content": "content---faq-alternative-nutrient-sourcesee-9-eec"
+  },
+  "/faq/basic_problems-f40": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faq-basic-problemsceb-68b"
+  },
+  "/faq/chemicals-8b7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faq-chemicals-2-be-10e"
+  },
+  "/faq/getting_started-ded": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faq-getting-startedf-1-d-666"
+  },
+  "/faq/glass_vs_plastic-956": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faq-glass-vs-plasticac-2-a82"
+  },
+  "/faq/headspace-6a1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faq-headspaceb-4-d-dd5"
+  },
+  "/faq/honey-b2e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faq-honey-1-e-7-5a9"
+  },
+  "/faq/hydrometer-c17": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faq-hydrometer-451-e8e"
+  },
+  "/faq/illegal_ingredients-b25": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faq-illegal-ingredients-2-fd-57a"
+  },
+  "/faq/infection-410": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faq-infection-391-43b"
+  },
+  "/faq/ld_carlson_additives-93e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faq-ld-carlson-additives-869-54e"
+  },
+  "/faq/overflow-301": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faq-overflowa-3-a-d78"
+  },
+  "/faq/stabilization_and_backsweetening-238": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faq-stabilization-and-backsweeteningb-90-b89"
+  },
+  "/faq/stuck_fermentation-c8e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faq-stuck-fermentation-08-d-2d4"
+  },
+  "/faq/yeast_selection-e4c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faq-yeast-selection-20-c-4cd"
   },
   "/intro-283": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -85,16 +157,32 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---recipes-737-00a"
   },
-  "/recipes/starter-recipes-075": {
+  "/recipes/beginner-recipes/-034": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---recipes-starter-recipesc-6-d-7cc"
+    "content": "content---recipes-beginner-recipes-32-d-2d2"
+  },
+  "/recipes/beginner-recipes/cyser-63e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---recipes-beginner-recipes-cyserbc-2-b79"
+  },
+  "/recipes/beginner-recipes/melomel-893": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---recipes-beginner-recipes-melomel-0-fd-295"
+  },
+  "/recipes/beginner-recipes/metheglin-d86": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---recipes-beginner-recipes-metheglin-27-b-e84"
+  },
+  "/recipes/beginner-recipes/traditional-0d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---recipes-beginner-recipes-traditional-17-a-774"
   },
   "/resources/-ef3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---resources-873-0d6"
   },
-  "/resources/equipment-751": {
+  "/resources/equipment-136": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---resources-equipment-129-187"
+    "content": "content---resources-equipment-2-b-2-b43"
   }
 }

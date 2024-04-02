@@ -1,0 +1,26 @@
+{
+  "id": "recipes/Beginner Recipes/traditional",
+  "title": "Beginner Traditional",
+  "description": "Basic Traditional",
+  "source": "@site/docs/recipes/Beginner Recipes/traditional.mdx",
+  "sourceDirName": "recipes/Beginner Recipes",
+  "slug": "/recipes/Beginner Recipes/traditional",
+  "permalink": "/recipes/Beginner Recipes/traditional",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/recipes/Beginner Recipes/traditional.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Beginner Traditional"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Beginner Metheglin",
+    "permalink": "/recipes/Beginner Recipes/metheglin"
+  },
+  "next": {
+    "title": "Resources",
+    "permalink": "/resources/"
+  }
+}

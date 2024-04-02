@@ -1,0 +1,26 @@
+{
+  "id": "recipes/beginner/metheglin",
+  "title": "Beginner Metheglin",
+  "description": "Basic Metheglin",
+  "source": "@site/docs/recipes/beginner/metheglin.mdx",
+  "sourceDirName": "recipes/beginner",
+  "slug": "/recipes/beginner/metheglin",
+  "permalink": "/recipes/beginner/metheglin",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/recipes/beginner/metheglin.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Beginner Metheglin"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Recipes",
+    "permalink": "/recipes/"
+  },
+  "next": {
+    "title": "Beginner Traditional",
+    "permalink": "/recipes/beginner/traditional"
+  }
+}

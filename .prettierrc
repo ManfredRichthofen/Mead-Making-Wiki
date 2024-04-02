@@ -2,8 +2,8 @@
   "arrowParens": "always",
   "bracketSpacing": false,
   "bracketSameLine": true,
-  "printWidth": 80,
-  "proseWrap": "never",
+  "printWidth": 120,
+  "proseWrap": "always",
   "singleQuote": true,
   "trailingComma": "all"
 }

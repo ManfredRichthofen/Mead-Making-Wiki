@@ -1,0 +1,37 @@
+{
+  "id": "recipes/beginner-recipes/metheglin",
+  "title": "Beginner Metheglin",
+  "description": "Add Later",
+  "source": "@site/docs/recipes/beginner-recipes/metheglin.mdx",
+  "sourceDirName": "recipes/beginner-recipes",
+  "slug": "/recipes/beginner-recipes/metheglin",
+  "permalink": "/recipes/beginner-recipes/metheglin",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/recipes/beginner-recipes/metheglin.mdx",
+  "tags": [
+    {
+      "label": "Recipe",
+      "permalink": "/tags/recipe"
+    },
+    {
+      "label": "Beginner",
+      "permalink": "/tags/beginner"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Beginner Metheglin",
+    "description": "Add Later",
+    "tags": ["Recipe", "Beginner"]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Beginner Melomel",
+    "permalink": "/recipes/beginner-recipes/melomel"
+  },
+  "next": {
+    "title": "Beginner Traditional",
+    "permalink": "/recipes/beginner-recipes/traditional"
+  }
+}

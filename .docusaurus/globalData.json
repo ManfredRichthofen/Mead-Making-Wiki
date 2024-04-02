@@ -11,8 +11,48 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "faq/equipment-faq",
-              "path": "/faq/equipment-faq",
+              "id": "faq/alternative_nutrient_sources",
+              "path": "/faq/alternative_nutrient_sources",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq/basic_problems",
+              "path": "/faq/basic_problems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq/chemicals",
+              "path": "/faq/chemicals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq/getting_started",
+              "path": "/faq/getting_started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq/glass_vs_plastic",
+              "path": "/faq/glass_vs_plastic",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq/headspace",
+              "path": "/faq/headspace",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq/honey",
+              "path": "/faq/honey",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq/hydrometer",
+              "path": "/faq/hydrometer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq/illegal_ingredients",
+              "path": "/faq/illegal_ingredients",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -21,18 +61,68 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "faq/infection",
+              "path": "/faq/infection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq/ld_carlson_additives",
+              "path": "/faq/ld_carlson_additives",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq/overflow",
+              "path": "/faq/overflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq/stabilization_and_backsweetening",
+              "path": "/faq/stabilization_and_backsweetening",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq/stuck_fermentation",
+              "path": "/faq/stuck_fermentation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq/yeast_selection",
+              "path": "/faq/yeast_selection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "recipes/index",
-              "path": "/recipes/",
+              "id": "recipes/beginner-recipes/cyser",
+              "path": "/recipes/beginner-recipes/cyser",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "recipes/starter-recipes",
-              "path": "/recipes/starter-recipes",
+              "id": "recipes/beginner-recipes/index",
+              "path": "/recipes/beginner-recipes/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "recipes/beginner-recipes/melomel",
+              "path": "/recipes/beginner-recipes/melomel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "recipes/beginner-recipes/metheglin",
+              "path": "/recipes/beginner-recipes/metheglin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "recipes/beginner-recipes/traditional",
+              "path": "/recipes/beginner-recipes/traditional",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "recipes/index",
+              "path": "/recipes/",
               "sidebar": "tutorialSidebar"
             },
             {

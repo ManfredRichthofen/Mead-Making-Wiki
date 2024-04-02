@@ -1,0 +1,26 @@
+{
+  "id": "faq/stabilization_and_backsweetening",
+  "title": "Stabilization and Back Sweetening",
+  "description": "These are bigger subjects that are often breezed over by online recipes, if mentioned at all.",
+  "source": "@site/docs/faq/stabilization_and_backsweetening.mdx",
+  "sourceDirName": "faq",
+  "slug": "/faq/stabilization_and_backsweetening",
+  "permalink": "/faq/stabilization_and_backsweetening",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/stabilization_and_backsweetening.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Stabilization and Back Sweetening"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "overflow",
+    "permalink": "/faq/overflow"
+  },
+  "next": {
+    "title": "Stuck Fermentation",
+    "permalink": "/faq/stuck_fermentation"
+  }
+}
