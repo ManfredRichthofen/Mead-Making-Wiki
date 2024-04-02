@@ -5,30 +5,32 @@
   "source": "@site/docs/faq/glass_vs_plastic.md",
   "sourceDirName": "faq",
   "slug": "/faq/glass_vs_plastic",
-  "permalink": "/faq/glass_vs_plastic",
+  "permalink": "/Mead-Making-Wiki/faq/glass_vs_plastic",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/glass_vs_plastic.md",
   "tags": [
     {
       "label": "faq",
-      "permalink": "/tags/faq"
+      "permalink": "/Mead-Making-Wiki/tags/faq"
     }
   ],
   "version": "current",
   "frontMatter": {
     "title": "Glass Vs. Plastic",
     "description": "Add Later",
-    "tags": ["faq"],
+    "tags": [
+      "faq"
+    ],
     "date": null
   },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Getting Started",
-    "permalink": "/faq/getting_started"
+    "permalink": "/Mead-Making-Wiki/faq/getting_started"
   },
   "next": {
     "title": "Headspace",
-    "permalink": "/faq/headspace"
+    "permalink": "/Mead-Making-Wiki/faq/headspace"
   }
 }

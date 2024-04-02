@@ -5,30 +5,32 @@
   "source": "@site/docs/faq/yeast_selection.md",
   "sourceDirName": "faq",
   "slug": "/faq/yeast_selection",
-  "permalink": "/faq/yeast_selection",
+  "permalink": "/Mead-Making-Wiki/faq/yeast_selection",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/yeast_selection.md",
   "tags": [
     {
       "label": "faq",
-      "permalink": "/tags/faq"
+      "permalink": "/Mead-Making-Wiki/tags/faq"
     }
   ],
   "version": "current",
   "frontMatter": {
     "title": "Yeast",
     "description": "Add Later",
-    "tags": ["faq"],
+    "tags": [
+      "faq"
+    ],
     "date": null
   },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Stuck Fermentation",
-    "permalink": "/faq/stuck_fermentation"
+    "permalink": "/Mead-Making-Wiki/faq/stuck_fermentation"
   },
   "next": {
     "title": "Recipes",
-    "permalink": "/recipes/"
+    "permalink": "/Mead-Making-Wiki/recipes/"
   }
 }

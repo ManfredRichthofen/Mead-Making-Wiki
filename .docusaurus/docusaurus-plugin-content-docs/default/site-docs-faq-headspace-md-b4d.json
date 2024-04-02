@@ -5,30 +5,32 @@
   "source": "@site/docs/faq/headspace.md",
   "sourceDirName": "faq",
   "slug": "/faq/headspace",
-  "permalink": "/faq/headspace",
+  "permalink": "/Mead-Making-Wiki/faq/headspace",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/headspace.md",
   "tags": [
     {
       "label": "faq",
-      "permalink": "/tags/faq"
+      "permalink": "/Mead-Making-Wiki/tags/faq"
     }
   ],
   "version": "current",
   "frontMatter": {
     "title": "Headspace",
     "description": "Add Later",
-    "tags": ["faq"],
+    "tags": [
+      "faq"
+    ],
     "date": null
   },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Glass Vs. Plastic",
-    "permalink": "/faq/glass_vs_plastic"
+    "permalink": "/Mead-Making-Wiki/faq/glass_vs_plastic"
   },
   "next": {
     "title": "Honey",
-    "permalink": "/faq/honey"
+    "permalink": "/Mead-Making-Wiki/faq/honey"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/faq/stabilization_and_backsweetening.mdx",
   "sourceDirName": "faq",
   "slug": "/faq/stabilization_and_backsweetening",
-  "permalink": "/faq/stabilization_and_backsweetening",
+  "permalink": "/Mead-Making-Wiki/faq/stabilization_and_backsweetening",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/stabilization_and_backsweetening.mdx",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "overflow",
-    "permalink": "/faq/overflow"
+    "permalink": "/Mead-Making-Wiki/faq/overflow"
   },
   "next": {
     "title": "Stuck Fermentation",
-    "permalink": "/faq/stuck_fermentation"
+    "permalink": "/Mead-Making-Wiki/faq/stuck_fermentation"
   }
 }

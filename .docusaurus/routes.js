@@ -3,237 +3,237 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', 'd1b'),
-    exact: true,
+    path: '/Mead-Making-Wiki/',
+    component: ComponentCreator('/Mead-Making-Wiki/', '887'),
+    exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '65f'),
-    exact: true,
+    path: '/Mead-Making-Wiki/__docusaurus/debug',
+    component: ComponentCreator('/Mead-Making-Wiki/__docusaurus/debug', 'bf3'),
+    exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'fd0'),
-    exact: true,
+    path: '/Mead-Making-Wiki/__docusaurus/debug/config',
+    component: ComponentCreator('/Mead-Making-Wiki/__docusaurus/debug/config', '1c5'),
+    exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'fb1'),
-    exact: true,
+    path: '/Mead-Making-Wiki/__docusaurus/debug/content',
+    component: ComponentCreator('/Mead-Making-Wiki/__docusaurus/debug/content', '91c'),
+    exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', 'db4'),
-    exact: true,
+    path: '/Mead-Making-Wiki/__docusaurus/debug/globalData',
+    component: ComponentCreator('/Mead-Making-Wiki/__docusaurus/debug/globalData', '33c'),
+    exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '5ee'),
-    exact: true,
+    path: '/Mead-Making-Wiki/__docusaurus/debug/metadata',
+    component: ComponentCreator('/Mead-Making-Wiki/__docusaurus/debug/metadata', '61e'),
+    exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', 'cfd'),
-    exact: true,
+    path: '/Mead-Making-Wiki/__docusaurus/debug/registry',
+    component: ComponentCreator('/Mead-Making-Wiki/__docusaurus/debug/registry', '2e1'),
+    exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '94f'),
-    exact: true,
+    path: '/Mead-Making-Wiki/__docusaurus/debug/routes',
+    component: ComponentCreator('/Mead-Making-Wiki/__docusaurus/debug/routes', '523'),
+    exact: true
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '2c0'),
-    exact: true,
+    path: '/Mead-Making-Wiki/markdown-page',
+    component: ComponentCreator('/Mead-Making-Wiki/markdown-page', '70b'),
+    exact: true
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '8aa'),
+    path: '/Mead-Making-Wiki/',
+    component: ComponentCreator('/Mead-Making-Wiki/', '594'),
     routes: [
       {
-        path: '/',
-        component: ComponentCreator('/', '6dc'),
+        path: '/Mead-Making-Wiki/',
+        component: ComponentCreator('/Mead-Making-Wiki/', 'ade'),
         routes: [
           {
-            path: '/tags',
-            component: ComponentCreator('/tags', 'd7a'),
-            exact: true,
+            path: '/Mead-Making-Wiki/tags',
+            component: ComponentCreator('/Mead-Making-Wiki/tags', 'ab4'),
+            exact: true
           },
           {
-            path: '/tags/beginner',
-            component: ComponentCreator('/tags/beginner', 'b75'),
-            exact: true,
+            path: '/Mead-Making-Wiki/tags/beginner',
+            component: ComponentCreator('/Mead-Making-Wiki/tags/beginner', 'c8f'),
+            exact: true
           },
           {
-            path: '/tags/faq',
-            component: ComponentCreator('/tags/faq', '845'),
-            exact: true,
+            path: '/Mead-Making-Wiki/tags/faq',
+            component: ComponentCreator('/Mead-Making-Wiki/tags/faq', '755'),
+            exact: true
           },
           {
-            path: '/tags/recipe',
-            component: ComponentCreator('/tags/recipe', '2cd'),
-            exact: true,
+            path: '/Mead-Making-Wiki/tags/recipe',
+            component: ComponentCreator('/Mead-Making-Wiki/tags/recipe', 'd7d'),
+            exact: true
           },
           {
-            path: '/',
-            component: ComponentCreator('/', 'b38'),
+            path: '/Mead-Making-Wiki/',
+            component: ComponentCreator('/Mead-Making-Wiki/', 'cf2'),
             routes: [
               {
-                path: '/faq/',
-                component: ComponentCreator('/faq/', 'd00'),
+                path: '/Mead-Making-Wiki/faq/',
+                component: ComponentCreator('/Mead-Making-Wiki/faq/', 'edc'),
                 exact: true,
-                sidebar: 'tutorialSidebar',
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/faq/alternative_nutrient_sources',
-                component: ComponentCreator('/faq/alternative_nutrient_sources', '7ba'),
+                path: '/Mead-Making-Wiki/faq/alternative_nutrient_sources',
+                component: ComponentCreator('/Mead-Making-Wiki/faq/alternative_nutrient_sources', 'ba5'),
                 exact: true,
-                sidebar: 'tutorialSidebar',
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/faq/basic_problems',
-                component: ComponentCreator('/faq/basic_problems', '04b'),
+                path: '/Mead-Making-Wiki/faq/basic_problems',
+                component: ComponentCreator('/Mead-Making-Wiki/faq/basic_problems', 'e56'),
                 exact: true,
-                sidebar: 'tutorialSidebar',
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/faq/chemicals',
-                component: ComponentCreator('/faq/chemicals', '6ea'),
+                path: '/Mead-Making-Wiki/faq/chemicals',
+                component: ComponentCreator('/Mead-Making-Wiki/faq/chemicals', 'e8b'),
                 exact: true,
-                sidebar: 'tutorialSidebar',
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/faq/getting_started',
-                component: ComponentCreator('/faq/getting_started', '44c'),
+                path: '/Mead-Making-Wiki/faq/getting_started',
+                component: ComponentCreator('/Mead-Making-Wiki/faq/getting_started', '914'),
                 exact: true,
-                sidebar: 'tutorialSidebar',
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/faq/glass_vs_plastic',
-                component: ComponentCreator('/faq/glass_vs_plastic', '007'),
+                path: '/Mead-Making-Wiki/faq/glass_vs_plastic',
+                component: ComponentCreator('/Mead-Making-Wiki/faq/glass_vs_plastic', '6e7'),
                 exact: true,
-                sidebar: 'tutorialSidebar',
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/faq/headspace',
-                component: ComponentCreator('/faq/headspace', 'e77'),
+                path: '/Mead-Making-Wiki/faq/headspace',
+                component: ComponentCreator('/Mead-Making-Wiki/faq/headspace', '55c'),
                 exact: true,
-                sidebar: 'tutorialSidebar',
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/faq/honey',
-                component: ComponentCreator('/faq/honey', 'f08'),
+                path: '/Mead-Making-Wiki/faq/honey',
+                component: ComponentCreator('/Mead-Making-Wiki/faq/honey', 'ad6'),
                 exact: true,
-                sidebar: 'tutorialSidebar',
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/faq/hydrometer',
-                component: ComponentCreator('/faq/hydrometer', 'cee'),
+                path: '/Mead-Making-Wiki/faq/hydrometer',
+                component: ComponentCreator('/Mead-Making-Wiki/faq/hydrometer', '36e'),
                 exact: true,
-                sidebar: 'tutorialSidebar',
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/faq/illegal_ingredients',
-                component: ComponentCreator('/faq/illegal_ingredients', '3ee'),
+                path: '/Mead-Making-Wiki/faq/illegal_ingredients',
+                component: ComponentCreator('/Mead-Making-Wiki/faq/illegal_ingredients', 'a4c'),
                 exact: true,
-                sidebar: 'tutorialSidebar',
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/faq/infection',
-                component: ComponentCreator('/faq/infection', 'ae2'),
+                path: '/Mead-Making-Wiki/faq/infection',
+                component: ComponentCreator('/Mead-Making-Wiki/faq/infection', '20e'),
                 exact: true,
-                sidebar: 'tutorialSidebar',
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/faq/ld-carlson-additives',
-                component: ComponentCreator('/faq/ld-carlson-additives', '91c'),
+                path: '/Mead-Making-Wiki/faq/ld-carlson-additives',
+                component: ComponentCreator('/Mead-Making-Wiki/faq/ld-carlson-additives', 'b0c'),
                 exact: true,
-                sidebar: 'tutorialSidebar',
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/faq/overflow',
-                component: ComponentCreator('/faq/overflow', '563'),
+                path: '/Mead-Making-Wiki/faq/overflow',
+                component: ComponentCreator('/Mead-Making-Wiki/faq/overflow', 'b75'),
                 exact: true,
-                sidebar: 'tutorialSidebar',
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/faq/stabilization_and_backsweetening',
-                component: ComponentCreator('/faq/stabilization_and_backsweetening', '894'),
+                path: '/Mead-Making-Wiki/faq/stabilization_and_backsweetening',
+                component: ComponentCreator('/Mead-Making-Wiki/faq/stabilization_and_backsweetening', 'fec'),
                 exact: true,
-                sidebar: 'tutorialSidebar',
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/faq/stuck_fermentation',
-                component: ComponentCreator('/faq/stuck_fermentation', '0f2'),
+                path: '/Mead-Making-Wiki/faq/stuck_fermentation',
+                component: ComponentCreator('/Mead-Making-Wiki/faq/stuck_fermentation', '59b'),
                 exact: true,
-                sidebar: 'tutorialSidebar',
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/faq/yeast_selection',
-                component: ComponentCreator('/faq/yeast_selection', '74e'),
+                path: '/Mead-Making-Wiki/faq/yeast_selection',
+                component: ComponentCreator('/Mead-Making-Wiki/faq/yeast_selection', 'cf9'),
                 exact: true,
-                sidebar: 'tutorialSidebar',
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/intro',
-                component: ComponentCreator('/intro', '9fa'),
+                path: '/Mead-Making-Wiki/intro',
+                component: ComponentCreator('/Mead-Making-Wiki/intro', '699'),
                 exact: true,
-                sidebar: 'tutorialSidebar',
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/recipes/',
-                component: ComponentCreator('/recipes/', 'a4e'),
+                path: '/Mead-Making-Wiki/recipes/',
+                component: ComponentCreator('/Mead-Making-Wiki/recipes/', 'eaa'),
                 exact: true,
-                sidebar: 'tutorialSidebar',
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/recipes/beginner-recipes/',
-                component: ComponentCreator('/recipes/beginner-recipes/', '00f'),
+                path: '/Mead-Making-Wiki/recipes/beginner-recipes/',
+                component: ComponentCreator('/Mead-Making-Wiki/recipes/beginner-recipes/', '74e'),
                 exact: true,
-                sidebar: 'tutorialSidebar',
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/recipes/beginner-recipes/cyser',
-                component: ComponentCreator('/recipes/beginner-recipes/cyser', '120'),
+                path: '/Mead-Making-Wiki/recipes/beginner-recipes/cyser',
+                component: ComponentCreator('/Mead-Making-Wiki/recipes/beginner-recipes/cyser', 'e2c'),
                 exact: true,
-                sidebar: 'tutorialSidebar',
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/recipes/beginner-recipes/melomel',
-                component: ComponentCreator('/recipes/beginner-recipes/melomel', '4f6'),
+                path: '/Mead-Making-Wiki/recipes/beginner-recipes/melomel',
+                component: ComponentCreator('/Mead-Making-Wiki/recipes/beginner-recipes/melomel', 'f1d'),
                 exact: true,
-                sidebar: 'tutorialSidebar',
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/recipes/beginner-recipes/metheglin',
-                component: ComponentCreator('/recipes/beginner-recipes/metheglin', 'd6f'),
+                path: '/Mead-Making-Wiki/recipes/beginner-recipes/metheglin',
+                component: ComponentCreator('/Mead-Making-Wiki/recipes/beginner-recipes/metheglin', '606'),
                 exact: true,
-                sidebar: 'tutorialSidebar',
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/recipes/beginner-recipes/traditional',
-                component: ComponentCreator('/recipes/beginner-recipes/traditional', 'd76'),
+                path: '/Mead-Making-Wiki/recipes/beginner-recipes/traditional',
+                component: ComponentCreator('/Mead-Making-Wiki/recipes/beginner-recipes/traditional', '1aa'),
                 exact: true,
-                sidebar: 'tutorialSidebar',
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/resources/',
-                component: ComponentCreator('/resources/', '906'),
+                path: '/Mead-Making-Wiki/resources/',
+                component: ComponentCreator('/Mead-Making-Wiki/resources/', '003'),
                 exact: true,
-                sidebar: 'tutorialSidebar',
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/resources/equipment',
-                component: ComponentCreator('/resources/equipment', '1d1'),
+                path: '/Mead-Making-Wiki/resources/equipment',
+                component: ComponentCreator('/Mead-Making-Wiki/resources/equipment', '097'),
                 exact: true,
-                sidebar: 'tutorialSidebar',
-              },
-            ],
-          },
-        ],
-      },
-    ],
+                sidebar: "tutorialSidebar"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     path: '*',

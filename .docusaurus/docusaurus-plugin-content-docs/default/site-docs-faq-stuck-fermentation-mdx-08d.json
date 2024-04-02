@@ -5,30 +5,32 @@
   "source": "@site/docs/faq/stuck_fermentation.mdx",
   "sourceDirName": "faq",
   "slug": "/faq/stuck_fermentation",
-  "permalink": "/faq/stuck_fermentation",
+  "permalink": "/Mead-Making-Wiki/faq/stuck_fermentation",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/stuck_fermentation.mdx",
   "tags": [
     {
       "label": "faq",
-      "permalink": "/tags/faq"
+      "permalink": "/Mead-Making-Wiki/tags/faq"
     }
   ],
   "version": "current",
   "frontMatter": {
     "title": "Stuck Fermentation",
     "description": "Add Later",
-    "tags": ["faq"],
+    "tags": [
+      "faq"
+    ],
     "date": null
   },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Stabilization and Back Sweetening",
-    "permalink": "/faq/stabilization_and_backsweetening"
+    "permalink": "/Mead-Making-Wiki/faq/stabilization_and_backsweetening"
   },
   "next": {
     "title": "Yeast",
-    "permalink": "/faq/yeast_selection"
+    "permalink": "/Mead-Making-Wiki/faq/yeast_selection"
   }
 }

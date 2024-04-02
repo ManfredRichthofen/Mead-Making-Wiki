@@ -5,33 +5,36 @@
   "source": "@site/docs/recipes/beginner-recipes/traditional.mdx",
   "sourceDirName": "recipes/beginner-recipes",
   "slug": "/recipes/beginner-recipes/traditional",
-  "permalink": "/recipes/beginner-recipes/traditional",
+  "permalink": "/Mead-Making-Wiki/recipes/beginner-recipes/traditional",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/recipes/beginner-recipes/traditional.mdx",
   "tags": [
     {
       "label": "Recipe",
-      "permalink": "/tags/recipe"
+      "permalink": "/Mead-Making-Wiki/tags/recipe"
     },
     {
       "label": "Beginner",
-      "permalink": "/tags/beginner"
+      "permalink": "/Mead-Making-Wiki/tags/beginner"
     }
   ],
   "version": "current",
   "frontMatter": {
     "title": "Beginner Traditional",
     "description": "Add Later",
-    "tags": ["Recipe", "Beginner"]
+    "tags": [
+      "Recipe",
+      "Beginner"
+    ]
   },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Beginner Metheglin",
-    "permalink": "/recipes/beginner-recipes/metheglin"
+    "permalink": "/Mead-Making-Wiki/recipes/beginner-recipes/metheglin"
   },
   "next": {
     "title": "Resources",
-    "permalink": "/resources/"
+    "permalink": "/Mead-Making-Wiki/resources/"
   }
 }

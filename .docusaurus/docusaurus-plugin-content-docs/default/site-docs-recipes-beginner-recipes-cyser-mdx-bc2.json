@@ -5,33 +5,36 @@
   "source": "@site/docs/recipes/beginner-recipes/cyser.mdx",
   "sourceDirName": "recipes/beginner-recipes",
   "slug": "/recipes/beginner-recipes/cyser",
-  "permalink": "/recipes/beginner-recipes/cyser",
+  "permalink": "/Mead-Making-Wiki/recipes/beginner-recipes/cyser",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/recipes/beginner-recipes/cyser.mdx",
   "tags": [
     {
       "label": "Recipe",
-      "permalink": "/tags/recipe"
+      "permalink": "/Mead-Making-Wiki/tags/recipe"
     },
     {
       "label": "Beginner",
-      "permalink": "/tags/beginner"
+      "permalink": "/Mead-Making-Wiki/tags/beginner"
     }
   ],
   "version": "current",
   "frontMatter": {
     "title": "Beginner Cyser",
     "description": "Add Later",
-    "tags": ["Recipe", "Beginner"]
+    "tags": [
+      "Recipe",
+      "Beginner"
+    ]
   },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Beginner Recipes",
-    "permalink": "/recipes/beginner-recipes/"
+    "permalink": "/Mead-Making-Wiki/recipes/beginner-recipes/"
   },
   "next": {
     "title": "Beginner Melomel",
-    "permalink": "/recipes/beginner-recipes/melomel"
+    "permalink": "/Mead-Making-Wiki/recipes/beginner-recipes/melomel"
   }
 }

@@ -5,30 +5,32 @@
   "source": "@site/docs/faq/chemicals.md",
   "sourceDirName": "faq",
   "slug": "/faq/chemicals",
-  "permalink": "/faq/chemicals",
+  "permalink": "/Mead-Making-Wiki/faq/chemicals",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/chemicals.md",
   "tags": [
     {
       "label": "faq",
-      "permalink": "/tags/faq"
+      "permalink": "/Mead-Making-Wiki/tags/faq"
     }
   ],
   "version": "current",
   "frontMatter": {
     "title": "Chemicals",
     "description": "Add Later",
-    "tags": ["faq"],
+    "tags": [
+      "faq"
+    ],
     "date": null
   },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Basic Problems",
-    "permalink": "/faq/basic_problems"
+    "permalink": "/Mead-Making-Wiki/faq/basic_problems"
   },
   "next": {
     "title": "Getting Started",
-    "permalink": "/faq/getting_started"
+    "permalink": "/Mead-Making-Wiki/faq/getting_started"
   }
 }

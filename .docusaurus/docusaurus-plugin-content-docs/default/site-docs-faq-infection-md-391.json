@@ -5,30 +5,32 @@
   "source": "@site/docs/faq/infection.md",
   "sourceDirName": "faq",
   "slug": "/faq/infection",
-  "permalink": "/faq/infection",
+  "permalink": "/Mead-Making-Wiki/faq/infection",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/infection.md",
   "tags": [
     {
       "label": "faq",
-      "permalink": "/tags/faq"
+      "permalink": "/Mead-Making-Wiki/tags/faq"
     }
   ],
   "version": "current",
   "frontMatter": {
     "title": "Infections & Mold",
     "description": "Add Later",
-    "tags": ["faq"],
+    "tags": [
+      "faq"
+    ],
     "date": null
   },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Illegal Ingredients",
-    "permalink": "/faq/illegal_ingredients"
+    "permalink": "/Mead-Making-Wiki/faq/illegal_ingredients"
   },
   "next": {
     "title": "LD Carlson Additives",
-    "permalink": "/faq/ld-carlson-additives"
+    "permalink": "/Mead-Making-Wiki/faq/ld-carlson-additives"
   }
 }

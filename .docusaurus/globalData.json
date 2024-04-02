@@ -1,138 +1,138 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/",
+      "path": "/Mead-Making-Wiki/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/",
+          "path": "/Mead-Making-Wiki/",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "faq/alternative_nutrient_sources",
-              "path": "/faq/alternative_nutrient_sources",
+              "path": "/Mead-Making-Wiki/faq/alternative_nutrient_sources",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "faq/basic_problems",
-              "path": "/faq/basic_problems",
+              "path": "/Mead-Making-Wiki/faq/basic_problems",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "faq/chemicals",
-              "path": "/faq/chemicals",
+              "path": "/Mead-Making-Wiki/faq/chemicals",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "faq/getting_started",
-              "path": "/faq/getting_started",
+              "path": "/Mead-Making-Wiki/faq/getting_started",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "faq/glass_vs_plastic",
-              "path": "/faq/glass_vs_plastic",
+              "path": "/Mead-Making-Wiki/faq/glass_vs_plastic",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "faq/headspace",
-              "path": "/faq/headspace",
+              "path": "/Mead-Making-Wiki/faq/headspace",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "faq/honey",
-              "path": "/faq/honey",
+              "path": "/Mead-Making-Wiki/faq/honey",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "faq/hydrometer",
-              "path": "/faq/hydrometer",
+              "path": "/Mead-Making-Wiki/faq/hydrometer",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "faq/illegal_ingredients",
-              "path": "/faq/illegal_ingredients",
+              "path": "/Mead-Making-Wiki/faq/illegal_ingredients",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "faq/index",
-              "path": "/faq/",
+              "path": "/Mead-Making-Wiki/faq/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "faq/infection",
-              "path": "/faq/infection",
+              "path": "/Mead-Making-Wiki/faq/infection",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "faq/ld-carlson-additives",
-              "path": "/faq/ld-carlson-additives",
+              "path": "/Mead-Making-Wiki/faq/ld-carlson-additives",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "faq/overflow",
-              "path": "/faq/overflow",
+              "path": "/Mead-Making-Wiki/faq/overflow",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "faq/stabilization_and_backsweetening",
-              "path": "/faq/stabilization_and_backsweetening",
+              "path": "/Mead-Making-Wiki/faq/stabilization_and_backsweetening",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "faq/stuck_fermentation",
-              "path": "/faq/stuck_fermentation",
+              "path": "/Mead-Making-Wiki/faq/stuck_fermentation",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "faq/yeast_selection",
-              "path": "/faq/yeast_selection",
+              "path": "/Mead-Making-Wiki/faq/yeast_selection",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/intro",
+              "path": "/Mead-Making-Wiki/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "recipes/beginner-recipes/cyser",
-              "path": "/recipes/beginner-recipes/cyser",
+              "path": "/Mead-Making-Wiki/recipes/beginner-recipes/cyser",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "recipes/beginner-recipes/index",
-              "path": "/recipes/beginner-recipes/",
+              "path": "/Mead-Making-Wiki/recipes/beginner-recipes/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "recipes/beginner-recipes/melomel",
-              "path": "/recipes/beginner-recipes/melomel",
+              "path": "/Mead-Making-Wiki/recipes/beginner-recipes/melomel",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "recipes/beginner-recipes/metheglin",
-              "path": "/recipes/beginner-recipes/metheglin",
+              "path": "/Mead-Making-Wiki/recipes/beginner-recipes/metheglin",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "recipes/beginner-recipes/traditional",
-              "path": "/recipes/beginner-recipes/traditional",
+              "path": "/Mead-Making-Wiki/recipes/beginner-recipes/traditional",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "recipes/index",
-              "path": "/recipes/",
+              "path": "/Mead-Making-Wiki/recipes/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "resources/equipment",
-              "path": "/resources/equipment",
+              "path": "/Mead-Making-Wiki/resources/equipment",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "resources/index",
-              "path": "/resources/",
+              "path": "/Mead-Making-Wiki/resources/",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -140,7 +140,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/intro",
+                "path": "/Mead-Making-Wiki/intro",
                 "label": "intro"
               }
             }

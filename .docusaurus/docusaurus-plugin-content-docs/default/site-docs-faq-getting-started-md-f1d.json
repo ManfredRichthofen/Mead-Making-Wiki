@@ -5,30 +5,32 @@
   "source": "@site/docs/faq/getting_started.md",
   "sourceDirName": "faq",
   "slug": "/faq/getting_started",
-  "permalink": "/faq/getting_started",
+  "permalink": "/Mead-Making-Wiki/faq/getting_started",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/getting_started.md",
   "tags": [
     {
       "label": "faq",
-      "permalink": "/tags/faq"
+      "permalink": "/Mead-Making-Wiki/tags/faq"
     }
   ],
   "version": "current",
   "frontMatter": {
     "title": "Getting Started",
     "description": "Add Later",
-    "tags": ["faq"],
+    "tags": [
+      "faq"
+    ],
     "date": null
   },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Chemicals",
-    "permalink": "/faq/chemicals"
+    "permalink": "/Mead-Making-Wiki/faq/chemicals"
   },
   "next": {
     "title": "Glass Vs. Plastic",
-    "permalink": "/faq/glass_vs_plastic"
+    "permalink": "/Mead-Making-Wiki/faq/glass_vs_plastic"
   }
 }

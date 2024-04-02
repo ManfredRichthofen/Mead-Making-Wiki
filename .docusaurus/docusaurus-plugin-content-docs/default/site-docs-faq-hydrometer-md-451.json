@@ -5,30 +5,32 @@
   "source": "@site/docs/faq/hydrometer.md",
   "sourceDirName": "faq",
   "slug": "/faq/hydrometer",
-  "permalink": "/faq/hydrometer",
+  "permalink": "/Mead-Making-Wiki/faq/hydrometer",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/hydrometer.md",
   "tags": [
     {
       "label": "faq",
-      "permalink": "/tags/faq"
+      "permalink": "/Mead-Making-Wiki/tags/faq"
     }
   ],
   "version": "current",
   "frontMatter": {
     "title": "Hydrometers",
     "description": "Add Later",
-    "tags": ["faq"],
+    "tags": [
+      "faq"
+    ],
     "date": null
   },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Honey",
-    "permalink": "/faq/honey"
+    "permalink": "/Mead-Making-Wiki/faq/honey"
   },
   "next": {
     "title": "Illegal Ingredients",
-    "permalink": "/faq/illegal_ingredients"
+    "permalink": "/Mead-Making-Wiki/faq/illegal_ingredients"
   }
 }
