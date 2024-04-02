@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "Welcome to the Modern Meadmaking wiki!",
-        "href": "/intro",
+        "href": "/Mead-Making-Wiki/intro",
         "docId": "intro",
         "unlisted": false
       },
@@ -25,110 +25,110 @@
           {
             "type": "link",
             "label": "Alternative Nutrient Sources",
-            "href": "/faq/alternative_nutrient_sources",
+            "href": "/Mead-Making-Wiki/faq/alternative_nutrient_sources",
             "docId": "faq/alternative_nutrient_sources",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Basic Problems",
-            "href": "/faq/basic_problems",
+            "href": "/Mead-Making-Wiki/faq/basic_problems",
             "docId": "faq/basic_problems",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Chemicals",
-            "href": "/faq/chemicals",
+            "href": "/Mead-Making-Wiki/faq/chemicals",
             "docId": "faq/chemicals",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Getting Started",
-            "href": "/faq/getting_started",
+            "href": "/Mead-Making-Wiki/faq/getting_started",
             "docId": "faq/getting_started",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Glass Vs. Plastic",
-            "href": "/faq/glass_vs_plastic",
+            "href": "/Mead-Making-Wiki/faq/glass_vs_plastic",
             "docId": "faq/glass_vs_plastic",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Headspace",
-            "href": "/faq/headspace",
+            "href": "/Mead-Making-Wiki/faq/headspace",
             "docId": "faq/headspace",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Honey",
-            "href": "/faq/honey",
+            "href": "/Mead-Making-Wiki/faq/honey",
             "docId": "faq/honey",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Hydrometers",
-            "href": "/faq/hydrometer",
+            "href": "/Mead-Making-Wiki/faq/hydrometer",
             "docId": "faq/hydrometer",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Illegal Ingredients",
-            "href": "/faq/illegal_ingredients",
+            "href": "/Mead-Making-Wiki/faq/illegal_ingredients",
             "docId": "faq/illegal_ingredients",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Infections & Mold",
-            "href": "/faq/infection",
+            "href": "/Mead-Making-Wiki/faq/infection",
             "docId": "faq/infection",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "LD Carlson Additives",
-            "href": "/faq/ld-carlson-additives",
+            "href": "/Mead-Making-Wiki/faq/ld-carlson-additives",
             "docId": "faq/ld-carlson-additives",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "overflow",
-            "href": "/faq/overflow",
+            "href": "/Mead-Making-Wiki/faq/overflow",
             "docId": "faq/overflow",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Stabilization and Back Sweetening",
-            "href": "/faq/stabilization_and_backsweetening",
+            "href": "/Mead-Making-Wiki/faq/stabilization_and_backsweetening",
             "docId": "faq/stabilization_and_backsweetening",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Stuck Fermentation",
-            "href": "/faq/stuck_fermentation",
+            "href": "/Mead-Making-Wiki/faq/stuck_fermentation",
             "docId": "faq/stuck_fermentation",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Yeast",
-            "href": "/faq/yeast_selection",
+            "href": "/Mead-Making-Wiki/faq/yeast_selection",
             "docId": "faq/yeast_selection",
             "unlisted": false
           }
         ],
-        "href": "/faq/"
+        "href": "/Mead-Making-Wiki/faq/"
       },
       {
         "type": "category",
@@ -145,36 +145,36 @@
               {
                 "type": "link",
                 "label": "Beginner Cyser",
-                "href": "/recipes/beginner-recipes/cyser",
+                "href": "/Mead-Making-Wiki/recipes/beginner-recipes/cyser",
                 "docId": "recipes/beginner-recipes/cyser",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Beginner Melomel",
-                "href": "/recipes/beginner-recipes/melomel",
+                "href": "/Mead-Making-Wiki/recipes/beginner-recipes/melomel",
                 "docId": "recipes/beginner-recipes/melomel",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Beginner Metheglin",
-                "href": "/recipes/beginner-recipes/metheglin",
+                "href": "/Mead-Making-Wiki/recipes/beginner-recipes/metheglin",
                 "docId": "recipes/beginner-recipes/metheglin",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Beginner Traditional",
-                "href": "/recipes/beginner-recipes/traditional",
+                "href": "/Mead-Making-Wiki/recipes/beginner-recipes/traditional",
                 "docId": "recipes/beginner-recipes/traditional",
                 "unlisted": false
               }
             ],
-            "href": "/recipes/beginner-recipes/"
+            "href": "/Mead-Making-Wiki/recipes/beginner-recipes/"
           }
         ],
-        "href": "/recipes/"
+        "href": "/Mead-Making-Wiki/recipes/"
       },
       {
         "type": "category",
@@ -185,12 +185,12 @@
           {
             "type": "link",
             "label": "Equipment",
-            "href": "/resources/equipment",
+            "href": "/Mead-Making-Wiki/resources/equipment",
             "docId": "resources/equipment",
             "unlisted": false
           }
         ],
-        "href": "/resources/"
+        "href": "/Mead-Making-Wiki/resources/"
       }
     ]
   },
