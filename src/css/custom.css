@@ -6,22 +6,23 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #f0f0f0; /* Light gray (background) */
-  --ifm-color-primary-dark: #333333; /* Dark gray (text) */
-  --ifm-color-primary-darker: #222222; /* Even darker gray (text) */
-  --ifm-color-primary-darkest: #111111; /* Darkest gray (text) */
-  --ifm-color-primary-light: #ffffff; /* White (text) */
-  --ifm-color-primary-lighter: #cccccc; /* Lighter gray (text) */
-  --ifm-color-primary-lightest: #dddddd; /* Lightest gray (text) */
+  --ifm-color-primary: #f0f0f0;
+  --ifm-color-primary-dark: #333333;
+  --ifm-color-primary-darker: #222222;
+  --ifm-color-primary-darkest: #111111;
+  --ifm-color-primary-light: #ffffff;
+  --ifm-color-primary-lighter: #cccccc;
+  --ifm-color-primary-lightest: #dddddd;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+
 [data-theme='dark'] {
-  --ifm-color-primary: #6b7c93;  /* Main primary color */
-  --ifm-color-primary-dark: #4d5b6e;  /* Darker shade of primary color */
-  --ifm-color-primary-darker: #3e4a5b;  /* Darkest shade of primary color */
-  --ifm-color-primary-darkest: #2b3844;  /* Even darker shade */
-  --ifm-color-primary-light: #8a99ab;  /* Lighter shade of primary color */
-  --ifm-color-primary-lighter: #aab7c8;  /* Even lighter shade */
-  --ifm-color-primary-lightest: #d3dce4;  /* Lightest shade */
+  --ifm-color-primary: #6b7c93;
+  --ifm-color-primary-dark: #4d5b6e;
+  --ifm-color-primary-darker: #3e4a5b;
+  --ifm-color-primary-darkest: #2b3844;
+  --ifm-color-primary-light: #8a99ab; 
+  --ifm-color-primary-lighter: #aab7c8;  
+  --ifm-color-primary-lightest: #d3dce4;  
+  --ifm-color-content: var(--ifm-color-emphasis-700); 
 }

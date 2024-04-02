@@ -29,7 +29,7 @@ export default {
         "docs": {
           "routeBasePath": "/",
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/"
         },
         "blog": false,
         "theme": {
@@ -41,9 +41,9 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "Mead Making Wiki",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "Logo",
         "src": "img/logo.svg"
       },
       "items": [

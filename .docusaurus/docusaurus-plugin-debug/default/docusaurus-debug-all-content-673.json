@@ -11,8 +11,8 @@
           "className": "docs-version-current",
           "path": "/Mead-Making-Wiki/",
           "tagsPath": "/Mead-Making-Wiki/tags",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
-          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs",
+          "editUrlLocalized": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "C:\\Users\\Jake\\Documents\\GitHub\\MeadMakingWiki\\sidebars.js",
@@ -29,7 +29,7 @@
               "permalink": "/Mead-Making-Wiki/faq/alternative_nutrient_sources",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/alternative_nutrient_sources.md",
+              "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs/faq/alternative_nutrient_sources.md",
               "tags": [
                 {
                   "label": "faq",
@@ -65,7 +65,7 @@
               "permalink": "/Mead-Making-Wiki/faq/basic_problems",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/basic_problems.mdx",
+              "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs/faq/basic_problems.mdx",
               "tags": [
                 {
                   "label": "faq",
@@ -106,7 +106,7 @@
               "permalink": "/Mead-Making-Wiki/faq/chemicals",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/chemicals.md",
+              "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs/faq/chemicals.md",
               "tags": [
                 {
                   "label": "faq",
@@ -142,7 +142,7 @@
               "permalink": "/Mead-Making-Wiki/faq/getting_started",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/getting_started.md",
+              "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs/faq/getting_started.md",
               "tags": [
                 {
                   "label": "faq",
@@ -178,7 +178,7 @@
               "permalink": "/Mead-Making-Wiki/faq/glass_vs_plastic",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/glass_vs_plastic.md",
+              "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs/faq/glass_vs_plastic.md",
               "tags": [
                 {
                   "label": "faq",
@@ -214,7 +214,7 @@
               "permalink": "/Mead-Making-Wiki/faq/headspace",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/headspace.md",
+              "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs/faq/headspace.md",
               "tags": [
                 {
                   "label": "faq",
@@ -250,7 +250,7 @@
               "permalink": "/Mead-Making-Wiki/faq/honey",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/honey.md",
+              "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs/faq/honey.md",
               "tags": [
                 {
                   "label": "faq",
@@ -286,7 +286,7 @@
               "permalink": "/Mead-Making-Wiki/faq/hydrometer",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/hydrometer.md",
+              "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs/faq/hydrometer.md",
               "tags": [
                 {
                   "label": "faq",
@@ -322,7 +322,7 @@
               "permalink": "/Mead-Making-Wiki/faq/illegal_ingredients",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/illegal_ingredients.md",
+              "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs/faq/illegal_ingredients.md",
               "tags": [
                 {
                   "label": "faq",
@@ -358,7 +358,7 @@
               "permalink": "/Mead-Making-Wiki/faq/",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/index.mdx",
+              "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs/faq/index.mdx",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -385,7 +385,7 @@
               "permalink": "/Mead-Making-Wiki/faq/infection",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/infection.md",
+              "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs/faq/infection.md",
               "tags": [
                 {
                   "label": "faq",
@@ -421,7 +421,7 @@
               "permalink": "/Mead-Making-Wiki/faq/ld-carlson-additives",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/ld-carlson-additives.md",
+              "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs/faq/ld-carlson-additives.md",
               "tags": [
                 {
                   "label": "faq",
@@ -457,7 +457,7 @@
               "permalink": "/Mead-Making-Wiki/faq/overflow",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/overflow.md",
+              "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs/faq/overflow.md",
               "tags": [
                 {
                   "label": "faq",
@@ -492,7 +492,7 @@
               "permalink": "/Mead-Making-Wiki/faq/stabilization_and_backsweetening",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/stabilization_and_backsweetening.mdx",
+              "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs/faq/stabilization_and_backsweetening.mdx",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -518,7 +518,7 @@
               "permalink": "/Mead-Making-Wiki/faq/stuck_fermentation",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/stuck_fermentation.mdx",
+              "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs/faq/stuck_fermentation.mdx",
               "tags": [
                 {
                   "label": "faq",
@@ -554,7 +554,7 @@
               "permalink": "/Mead-Making-Wiki/faq/yeast_selection",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/yeast_selection.md",
+              "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs/faq/yeast_selection.md",
               "tags": [
                 {
                   "label": "faq",
@@ -590,7 +590,7 @@
               "permalink": "/Mead-Making-Wiki/intro",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs/intro.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -613,7 +613,7 @@
               "permalink": "/Mead-Making-Wiki/recipes/beginner-recipes/cyser",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/recipes/beginner-recipes/cyser.mdx",
+              "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs/recipes/beginner-recipes/cyser.mdx",
               "tags": [
                 {
                   "label": "Recipe",
@@ -653,7 +653,7 @@
               "permalink": "/Mead-Making-Wiki/recipes/beginner-recipes/",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/recipes/beginner-recipes/index.mdx",
+              "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs/recipes/beginner-recipes/index.mdx",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -680,7 +680,7 @@
               "permalink": "/Mead-Making-Wiki/recipes/beginner-recipes/melomel",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/recipes/beginner-recipes/melomel.mdx",
+              "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs/recipes/beginner-recipes/melomel.mdx",
               "tags": [
                 {
                   "label": "Recipe",
@@ -720,7 +720,7 @@
               "permalink": "/Mead-Making-Wiki/recipes/beginner-recipes/metheglin",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/recipes/beginner-recipes/metheglin.mdx",
+              "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs/recipes/beginner-recipes/metheglin.mdx",
               "tags": [
                 {
                   "label": "Recipe",
@@ -760,7 +760,7 @@
               "permalink": "/Mead-Making-Wiki/recipes/beginner-recipes/traditional",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/recipes/beginner-recipes/traditional.mdx",
+              "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs/recipes/beginner-recipes/traditional.mdx",
               "tags": [
                 {
                   "label": "Recipe",
@@ -800,7 +800,7 @@
               "permalink": "/Mead-Making-Wiki/recipes/",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/recipes/index.mdx",
+              "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs/recipes/index.mdx",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -827,7 +827,7 @@
               "permalink": "/Mead-Making-Wiki/resources/equipment",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/resources/equipment.mdx",
+              "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs/resources/equipment.mdx",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -849,7 +849,7 @@
               "permalink": "/Mead-Making-Wiki/resources/",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/resources/index.mdx",
+              "editUrl": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/docs/resources/index.mdx",
               "tags": [],
               "version": "current",
               "frontMatter": {
