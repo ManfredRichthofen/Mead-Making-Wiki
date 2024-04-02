@@ -24,7 +24,7 @@ jobs:
         run: npm install
       - name: Crowdin
         run: npm run crowdin:sync
-        with:
+        env:
           API_ENV: ${{ secrets.API_ENV }}
       - name: Build website
         run: npm run build
