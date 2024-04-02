@@ -44,7 +44,7 @@ aging), but are rarely advocated today. The amount is usually given as "a handfu
 What follows is some math exploring just how much nitrogen content they add.
 
 Raisins are
-[approximately 1% nitrogen.^†](http://books.google.com/books?id=-QVJAAAAYAAJ&amp;pg=PA323&amp;lpg=PA323&amp;dq=raisins+percent+nitrogen&amp;source=bl&amp;ots=TSvEHTtDye&amp;sig=WZwCZ-7yhdcP6iMvWkOpJ-lrw4M&amp;hl=en&amp;sa=X&amp;ei=MkeHVPzbO4a0yAT4qoDwCA&amp;ved=0CEMQ6AEwBw#v=onepage&amp;q=raisins%20percent%20nitrogen&amp;f=false)
+[approximately 1% nitrogen.^†](http://books.google.com/books?id=-QVJAAAAYAAJ&pg=PA323&lpg=PA323&dq=raisins+percent+nitrogen&source=bl&ots=TSvEHTtDye&sig=WZwCZ-7yhdcP6iMvWkOpJ-lrw4M&hl=en&sa=X&ei=MkeHVPzbO4a0yAT4qoDwCA&ved=0CEMQ6AEwBw#v=onepage&q=raisins%20percent%20nitrogen&f=false)
 
 Dried California raisins are approximately .5 grams each. It varies a lot, obviously, but assuming 25 raisins weighs
 roughly 12 grams:

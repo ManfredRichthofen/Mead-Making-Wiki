@@ -19,9 +19,7 @@
   "frontMatter": {
     "title": "Infections & Mold",
     "description": "Add Later",
-    "tags": [
-      "faq"
-    ],
+    "tags": ["faq"],
     "date": null
   },
   "sidebar": "tutorialSidebar",
@@ -30,7 +28,7 @@
     "permalink": "/faq/illegal_ingredients"
   },
   "next": {
-    "title": "ld_carlson_additives",
-    "permalink": "/faq/ld_carlson_additives"
+    "title": "LD Carlson Additives",
+    "permalink": "/faq/ld-carlson-additives"
   }
 }

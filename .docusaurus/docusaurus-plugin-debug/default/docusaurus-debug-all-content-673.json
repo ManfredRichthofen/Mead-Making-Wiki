@@ -40,9 +40,7 @@
               "frontMatter": {
                 "title": "Alternative Nutrient Sources",
                 "description": "Add Later",
-                "tags": [
-                  "faq"
-                ],
+                "tags": ["faq"],
                 "date": null
               },
               "sidebar": "tutorialSidebar",
@@ -80,10 +78,7 @@
               "frontMatter": {
                 "title": "Basic Problems",
                 "description": "Add Later",
-                "tags": [
-                  "faq",
-                  "beginner"
-                ],
+                "tags": ["faq", "beginner"],
                 "dateCreated": "2023-06-12T14:58:38.315Z"
               },
               "sidebar": "tutorialSidebar",
@@ -117,9 +112,7 @@
               "frontMatter": {
                 "title": "Chemicals",
                 "description": "Add Later",
-                "tags": [
-                  "faq"
-                ],
+                "tags": ["faq"],
                 "date": null
               },
               "sidebar": "tutorialSidebar",
@@ -153,9 +146,7 @@
               "frontMatter": {
                 "title": "Getting Started",
                 "description": "Add Later",
-                "tags": [
-                  "faq"
-                ],
+                "tags": ["faq"],
                 "date": null
               },
               "sidebar": "tutorialSidebar",
@@ -189,9 +180,7 @@
               "frontMatter": {
                 "title": "Glass Vs. Plastic",
                 "description": "Add Later",
-                "tags": [
-                  "faq"
-                ],
+                "tags": ["faq"],
                 "date": null
               },
               "sidebar": "tutorialSidebar",
@@ -225,9 +214,7 @@
               "frontMatter": {
                 "title": "Headspace",
                 "description": "Add Later",
-                "tags": [
-                  "faq"
-                ],
+                "tags": ["faq"],
                 "date": null
               },
               "sidebar": "tutorialSidebar",
@@ -261,9 +248,7 @@
               "frontMatter": {
                 "title": "Honey",
                 "description": "Add Later",
-                "tags": [
-                  "faq"
-                ],
+                "tags": ["faq"],
                 "date": null
               },
               "sidebar": "tutorialSidebar",
@@ -297,9 +282,7 @@
               "frontMatter": {
                 "title": "Hydrometers",
                 "description": "Add Later",
-                "tags": [
-                  "faq"
-                ],
+                "tags": ["faq"],
                 "date": null
               },
               "sidebar": "tutorialSidebar",
@@ -333,9 +316,7 @@
               "frontMatter": {
                 "title": "Illegal Ingredients",
                 "description": "Add Later",
-                "tags": [
-                  "faq"
-                ],
+                "tags": ["faq"],
                 "date": null
               },
               "sidebar": "tutorialSidebar",
@@ -396,9 +377,7 @@
               "frontMatter": {
                 "title": "Infections & Mold",
                 "description": "Add Later",
-                "tags": [
-                  "faq"
-                ],
+                "tags": ["faq"],
                 "date": null
               },
               "sidebar": "tutorialSidebar",
@@ -407,21 +386,21 @@
                 "permalink": "/faq/illegal_ingredients"
               },
               "next": {
-                "title": "ld_carlson_additives",
-                "permalink": "/faq/ld_carlson_additives"
+                "title": "LD Carlson Additives",
+                "permalink": "/faq/ld-carlson-additives"
               }
             },
             {
-              "id": "faq/ld_carlson_additives",
-              "title": "ld_carlson_additives",
+              "id": "faq/ld-carlson-additives",
+              "title": "LD Carlson Additives",
               "description": "Add Later",
-              "source": "@site/docs/faq/ld_carlson_additives.md",
+              "source": "@site/docs/faq/ld-carlson-additives.md",
               "sourceDirName": "faq",
-              "slug": "/faq/ld_carlson_additives",
-              "permalink": "/faq/ld_carlson_additives",
+              "slug": "/faq/ld-carlson-additives",
+              "permalink": "/faq/ld-carlson-additives",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/ld_carlson_additives.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/ld-carlson-additives.md",
               "tags": [
                 {
                   "label": "faq",
@@ -430,10 +409,9 @@
               ],
               "version": "current",
               "frontMatter": {
+                "title": "LD Carlson Additives",
                 "description": "Add Later",
-                "tags": [
-                  "faq"
-                ],
+                "tags": ["faq"],
                 "date": null
               },
               "sidebar": "tutorialSidebar",
@@ -466,15 +444,13 @@
               "version": "current",
               "frontMatter": {
                 "description": "Add Later",
-                "tags": [
-                  "faq"
-                ],
+                "tags": ["faq"],
                 "date": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "ld_carlson_additives",
-                "permalink": "/faq/ld_carlson_additives"
+                "title": "LD Carlson Additives",
+                "permalink": "/faq/ld-carlson-additives"
               },
               "next": {
                 "title": "Stabilization and Back Sweetening",
@@ -528,9 +504,7 @@
               "frontMatter": {
                 "title": "Stuck Fermentation",
                 "description": "Add Later",
-                "tags": [
-                  "faq"
-                ],
+                "tags": ["faq"],
                 "date": null
               },
               "sidebar": "tutorialSidebar",
@@ -539,13 +513,13 @@
                 "permalink": "/faq/stabilization_and_backsweetening"
               },
               "next": {
-                "title": "yeast_selection",
+                "title": "Yeast",
                 "permalink": "/faq/yeast_selection"
               }
             },
             {
               "id": "faq/yeast_selection",
-              "title": "yeast_selection",
+              "title": "Yeast",
               "description": "Add Later",
               "source": "@site/docs/faq/yeast_selection.md",
               "sourceDirName": "faq",
@@ -562,10 +536,9 @@
               ],
               "version": "current",
               "frontMatter": {
+                "title": "Yeast",
                 "description": "Add Later",
-                "tags": [
-                  "faq"
-                ],
+                "tags": ["faq"],
                 "date": null
               },
               "sidebar": "tutorialSidebar",
@@ -626,10 +599,7 @@
               "frontMatter": {
                 "title": "Beginner Cyser",
                 "description": "Add Later",
-                "tags": [
-                  "Recipe",
-                  "Beginner"
-                ]
+                "tags": ["Recipe", "Beginner"]
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -693,10 +663,7 @@
               "frontMatter": {
                 "title": "Beginner Melomel",
                 "description": "Add Later",
-                "tags": [
-                  "Recipe",
-                  "Beginner"
-                ]
+                "tags": ["Recipe", "Beginner"]
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -733,10 +700,7 @@
               "frontMatter": {
                 "title": "Beginner Metheglin",
                 "description": "Add Later",
-                "tags": [
-                  "Recipe",
-                  "Beginner"
-                ]
+                "tags": ["Recipe", "Beginner"]
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -773,10 +737,7 @@
               "frontMatter": {
                 "title": "Beginner Traditional",
                 "description": "Add Later",
-                "tags": [
-                  "Recipe",
-                  "Beginner"
-                ]
+                "tags": ["Recipe", "Beginner"]
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -807,7 +768,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "yeast_selection",
+                "title": "Yeast",
                 "permalink": "/faq/yeast_selection"
               },
               "next": {
@@ -920,7 +881,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "faq/ld_carlson_additives"
+                    "id": "faq/ld-carlson-additives"
                   },
                   {
                     "type": "doc",

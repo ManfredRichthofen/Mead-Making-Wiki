@@ -5,235 +5,235 @@ export default [
   {
     path: '/__docusaurus/debug',
     component: ComponentCreator('/__docusaurus/debug', 'd1b'),
-    exact: true
+    exact: true,
   },
   {
     path: '/__docusaurus/debug/config',
     component: ComponentCreator('/__docusaurus/debug/config', '65f'),
-    exact: true
+    exact: true,
   },
   {
     path: '/__docusaurus/debug/content',
     component: ComponentCreator('/__docusaurus/debug/content', 'fd0'),
-    exact: true
+    exact: true,
   },
   {
     path: '/__docusaurus/debug/globalData',
     component: ComponentCreator('/__docusaurus/debug/globalData', 'fb1'),
-    exact: true
+    exact: true,
   },
   {
     path: '/__docusaurus/debug/metadata',
     component: ComponentCreator('/__docusaurus/debug/metadata', 'db4'),
-    exact: true
+    exact: true,
   },
   {
     path: '/__docusaurus/debug/registry',
     component: ComponentCreator('/__docusaurus/debug/registry', '5ee'),
-    exact: true
+    exact: true,
   },
   {
     path: '/__docusaurus/debug/routes',
     component: ComponentCreator('/__docusaurus/debug/routes', 'cfd'),
-    exact: true
+    exact: true,
   },
   {
     path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '813'),
-    exact: true
+    component: ComponentCreator('/markdown-page', '94f'),
+    exact: true,
   },
   {
     path: '/',
-    component: ComponentCreator('/', '949'),
-    exact: true
+    component: ComponentCreator('/', '2c0'),
+    exact: true,
   },
   {
     path: '/',
-    component: ComponentCreator('/', '1fd'),
+    component: ComponentCreator('/', '8aa'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '02c'),
+        component: ComponentCreator('/', '6dc'),
         routes: [
           {
             path: '/tags',
             component: ComponentCreator('/tags', 'd7a'),
-            exact: true
+            exact: true,
           },
           {
             path: '/tags/beginner',
             component: ComponentCreator('/tags/beginner', 'b75'),
-            exact: true
+            exact: true,
           },
           {
             path: '/tags/faq',
             component: ComponentCreator('/tags/faq', '845'),
-            exact: true
+            exact: true,
           },
           {
             path: '/tags/recipe',
             component: ComponentCreator('/tags/recipe', '2cd'),
-            exact: true
+            exact: true,
           },
           {
             path: '/',
-            component: ComponentCreator('/', '4a5'),
+            component: ComponentCreator('/', 'b38'),
             routes: [
               {
                 path: '/faq/',
-                component: ComponentCreator('/faq/', '0b4'),
+                component: ComponentCreator('/faq/', 'd00'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: 'tutorialSidebar',
               },
               {
                 path: '/faq/alternative_nutrient_sources',
-                component: ComponentCreator('/faq/alternative_nutrient_sources', '25c'),
+                component: ComponentCreator('/faq/alternative_nutrient_sources', '7ba'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: 'tutorialSidebar',
               },
               {
                 path: '/faq/basic_problems',
-                component: ComponentCreator('/faq/basic_problems', 'f40'),
+                component: ComponentCreator('/faq/basic_problems', '04b'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: 'tutorialSidebar',
               },
               {
                 path: '/faq/chemicals',
-                component: ComponentCreator('/faq/chemicals', '8b7'),
+                component: ComponentCreator('/faq/chemicals', '6ea'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: 'tutorialSidebar',
               },
               {
                 path: '/faq/getting_started',
-                component: ComponentCreator('/faq/getting_started', 'ded'),
+                component: ComponentCreator('/faq/getting_started', '44c'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: 'tutorialSidebar',
               },
               {
                 path: '/faq/glass_vs_plastic',
-                component: ComponentCreator('/faq/glass_vs_plastic', '956'),
+                component: ComponentCreator('/faq/glass_vs_plastic', '007'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: 'tutorialSidebar',
               },
               {
                 path: '/faq/headspace',
-                component: ComponentCreator('/faq/headspace', '6a1'),
+                component: ComponentCreator('/faq/headspace', 'e77'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: 'tutorialSidebar',
               },
               {
                 path: '/faq/honey',
-                component: ComponentCreator('/faq/honey', 'b2e'),
+                component: ComponentCreator('/faq/honey', 'f08'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: 'tutorialSidebar',
               },
               {
                 path: '/faq/hydrometer',
-                component: ComponentCreator('/faq/hydrometer', 'c17'),
+                component: ComponentCreator('/faq/hydrometer', 'cee'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: 'tutorialSidebar',
               },
               {
                 path: '/faq/illegal_ingredients',
-                component: ComponentCreator('/faq/illegal_ingredients', 'b25'),
+                component: ComponentCreator('/faq/illegal_ingredients', '3ee'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: 'tutorialSidebar',
               },
               {
                 path: '/faq/infection',
-                component: ComponentCreator('/faq/infection', '410'),
+                component: ComponentCreator('/faq/infection', 'ae2'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: 'tutorialSidebar',
               },
               {
-                path: '/faq/ld_carlson_additives',
-                component: ComponentCreator('/faq/ld_carlson_additives', '93e'),
+                path: '/faq/ld-carlson-additives',
+                component: ComponentCreator('/faq/ld-carlson-additives', '91c'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: 'tutorialSidebar',
               },
               {
                 path: '/faq/overflow',
-                component: ComponentCreator('/faq/overflow', '301'),
+                component: ComponentCreator('/faq/overflow', '563'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: 'tutorialSidebar',
               },
               {
                 path: '/faq/stabilization_and_backsweetening',
-                component: ComponentCreator('/faq/stabilization_and_backsweetening', '238'),
+                component: ComponentCreator('/faq/stabilization_and_backsweetening', '894'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: 'tutorialSidebar',
               },
               {
                 path: '/faq/stuck_fermentation',
-                component: ComponentCreator('/faq/stuck_fermentation', 'c8e'),
+                component: ComponentCreator('/faq/stuck_fermentation', '0f2'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: 'tutorialSidebar',
               },
               {
                 path: '/faq/yeast_selection',
-                component: ComponentCreator('/faq/yeast_selection', 'e4c'),
+                component: ComponentCreator('/faq/yeast_selection', '74e'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: 'tutorialSidebar',
               },
               {
                 path: '/intro',
-                component: ComponentCreator('/intro', '283'),
+                component: ComponentCreator('/intro', '9fa'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: 'tutorialSidebar',
               },
               {
                 path: '/recipes/',
-                component: ComponentCreator('/recipes/', '38c'),
+                component: ComponentCreator('/recipes/', 'a4e'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: 'tutorialSidebar',
               },
               {
                 path: '/recipes/beginner-recipes/',
-                component: ComponentCreator('/recipes/beginner-recipes/', '034'),
+                component: ComponentCreator('/recipes/beginner-recipes/', '00f'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: 'tutorialSidebar',
               },
               {
                 path: '/recipes/beginner-recipes/cyser',
-                component: ComponentCreator('/recipes/beginner-recipes/cyser', '63e'),
+                component: ComponentCreator('/recipes/beginner-recipes/cyser', '120'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: 'tutorialSidebar',
               },
               {
                 path: '/recipes/beginner-recipes/melomel',
-                component: ComponentCreator('/recipes/beginner-recipes/melomel', '893'),
+                component: ComponentCreator('/recipes/beginner-recipes/melomel', '4f6'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: 'tutorialSidebar',
               },
               {
                 path: '/recipes/beginner-recipes/metheglin',
-                component: ComponentCreator('/recipes/beginner-recipes/metheglin', 'd86'),
+                component: ComponentCreator('/recipes/beginner-recipes/metheglin', 'd6f'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: 'tutorialSidebar',
               },
               {
                 path: '/recipes/beginner-recipes/traditional',
-                component: ComponentCreator('/recipes/beginner-recipes/traditional', '0d2'),
+                component: ComponentCreator('/recipes/beginner-recipes/traditional', 'd76'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: 'tutorialSidebar',
               },
               {
                 path: '/resources/',
-                component: ComponentCreator('/resources/', 'ef3'),
+                component: ComponentCreator('/resources/', '906'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: 'tutorialSidebar',
               },
               {
                 path: '/resources/equipment',
-                component: ComponentCreator('/resources/equipment', '136'),
+                component: ComponentCreator('/resources/equipment', '1d1'),
                 exact: true,
-                sidebar: "tutorialSidebar"
-              }
-            ]
-          }
-        ]
-      }
-    ]
+                sidebar: 'tutorialSidebar',
+              },
+            ],
+          },
+        ],
+      },
+    ],
   },
   {
     path: '*',

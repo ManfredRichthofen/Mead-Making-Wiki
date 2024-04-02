@@ -65,10 +65,10 @@
       "permalink": "/faq/infection"
     },
     {
-      "id": "faq/ld_carlson_additives",
-      "title": "ld_carlson_additives",
+      "id": "faq/ld-carlson-additives",
+      "title": "LD Carlson Additives",
       "description": "Add Later",
-      "permalink": "/faq/ld_carlson_additives"
+      "permalink": "/faq/ld-carlson-additives"
     },
     {
       "id": "faq/overflow",
@@ -84,7 +84,7 @@
     },
     {
       "id": "faq/yeast_selection",
-      "title": "yeast_selection",
+      "title": "Yeast",
       "description": "Add Later",
       "permalink": "/faq/yeast_selection"
     }

@@ -1,6 +1,6 @@
 {
   "id": "faq/yeast_selection",
-  "title": "yeast_selection",
+  "title": "Yeast",
   "description": "Add Later",
   "source": "@site/docs/faq/yeast_selection.md",
   "sourceDirName": "faq",
@@ -17,6 +17,7 @@
   ],
   "version": "current",
   "frontMatter": {
+    "title": "Yeast",
     "description": "Add Later",
     "tags": ["faq"],
     "date": null

@@ -1,14 +1,14 @@
 {
-  "id": "faq/ld_carlson_additives",
-  "title": "ld_carlson_additives",
+  "id": "faq/ld-carlson-additives",
+  "title": "LD Carlson Additives",
   "description": "Add Later",
-  "source": "@site/docs/faq/ld_carlson_additives.md",
+  "source": "@site/docs/faq/ld-carlson-additives.md",
   "sourceDirName": "faq",
-  "slug": "/faq/ld_carlson_additives",
-  "permalink": "/faq/ld_carlson_additives",
+  "slug": "/faq/ld-carlson-additives",
+  "permalink": "/faq/ld-carlson-additives",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/ld_carlson_additives.md",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/faq/ld-carlson-additives.md",
   "tags": [
     {
       "label": "faq",
@@ -17,6 +17,7 @@
   ],
   "version": "current",
   "frontMatter": {
+    "title": "LD Carlson Additives",
     "description": "Add Later",
     "tags": ["faq"],
     "date": null

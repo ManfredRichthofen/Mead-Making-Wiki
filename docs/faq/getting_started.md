@@ -94,9 +94,9 @@ Once you get a few batches under your belt, you'll want to start testing out you
 here are a couple of things to keep in mind.
 
 Learn to use the [GotMead calculator](https://gotmead.com/blog/the-mead-calculator/). Note that it has a
-[help page](https://gotmead.com/blog/mead-calculator-help/).
-This is the single most helpful tool (other than experience) in formulating recipes. Be aware that the calculations will
-inherently yield ballpark numbers, as honey content will vary.
+[help page](https://gotmead.com/blog/mead-calculator-help/). This is the single most helpful tool (other than
+experience) in formulating recipes. Be aware that the calculations will inherently yield ballpark numbers, as honey
+content will vary.
 
 The other big stumbling block is yeast nutrition. Mead musts are extremely nutrient deficient. There really isn't any
 short answer for how to supplement the required nitrogen and micronutrients. Before you start formulating your own
