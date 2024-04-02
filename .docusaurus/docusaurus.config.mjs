@@ -7,7 +7,7 @@ export default {
   "title": "My Site",
   "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
+  "url": "https://manfredrichthofen.github.io",
   "baseUrl": "/Mead-Making-Wiki/",
   "organizationName": "ManfredRichthofen",
   "projectName": "Mead Making Wiki",
