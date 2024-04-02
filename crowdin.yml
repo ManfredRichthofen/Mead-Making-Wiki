@@ -1,5 +1,5 @@
 project_id: '662458'
-api_token: API_ENV
+api_token: 'API_ENV'
 preserve_hierarchy: true
 files:
   # JSON translation files
