@@ -18,5 +18,17 @@
   "sidebar.tutorialSidebar.category.Resources": {
     "message": "Resources",
     "description": "The label for category Resources in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.guides": {
+    "message": "guides",
+    "description": "The label for category guides in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.ingredients": {
+    "message": "ingredients",
+    "description": "The label for category ingredients in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.process": {
+    "message": "process",
+    "description": "The label for category process in sidebar tutorialSidebar"
   }
 }
