@@ -3,6 +3,7 @@ name: Crowdin Translations
 on:
   push:
     branches: [ main ]
+  workflow_dispatch:
 
 jobs:
   synchronize-with-crowdin:
