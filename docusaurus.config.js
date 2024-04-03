@@ -69,12 +69,6 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Docs',
-          },
-          {
             href: 'https://www.reddit.com/r/mead',
             label: 'Reddit',
             position: 'right',
