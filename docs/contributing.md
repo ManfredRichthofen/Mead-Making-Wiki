@@ -117,6 +117,8 @@ Remove punctuation entirely.
 
 - Example: /wiki/meaderies/schramms-mead
 
+### Translations
+
 ### Page Structure
 
 Roughly follow the template as this page. Please note the use of titles and headings that are automatically inserted
