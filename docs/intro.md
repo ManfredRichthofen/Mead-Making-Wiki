@@ -1,5 +1,8 @@
 ---
 slug: /
+pagination_next: null
+pagination_prev: null
+sidebar_class_name: hidden
 ---
 
 # Welcome to the Modern Meadmaking wiki!
