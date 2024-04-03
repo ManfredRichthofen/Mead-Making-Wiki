@@ -1,6 +1,6 @@
 export default [
-  require("C:\\Users\\Jake\\Documents\\GitHub\\MeadMakingWiki\\node_modules\\infima\\dist\\css\\default\\default.css"),
-  require("C:\\Users\\Jake\\Documents\\GitHub\\MeadMakingWiki\\node_modules\\@docusaurus\\theme-classic\\lib\\prism-include-languages"),
-  require("C:\\Users\\Jake\\Documents\\GitHub\\MeadMakingWiki\\node_modules\\@docusaurus\\theme-classic\\lib\\nprogress"),
-  require("C:\\Users\\Jake\\Documents\\GitHub\\MeadMakingWiki\\src\\css\\custom.css"),
+  require("/home/jacob/Documents/GitHub/Mead-Making-Wiki/node_modules/infima/dist/css/default/default.css"),
+  require("/home/jacob/Documents/GitHub/Mead-Making-Wiki/node_modules/@docusaurus/theme-classic/lib/prism-include-languages"),
+  require("/home/jacob/Documents/GitHub/Mead-Making-Wiki/node_modules/@docusaurus/theme-classic/lib/nprogress"),
+  require("/home/jacob/Documents/GitHub/Mead-Making-Wiki/src/css/custom.css"),
 ];
