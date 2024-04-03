@@ -36,8 +36,8 @@ jobs:
     needs: build
 
     permissions:
-      pages: write 
-      id-token: write 
+      pages: write
+      id-token: write
 
     environment:
       name: github-pages

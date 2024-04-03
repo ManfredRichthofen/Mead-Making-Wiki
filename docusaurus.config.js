@@ -59,6 +59,7 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      plugins: [require.resolve('docusaurus-lunr-search')],
       navbar: {
         title: 'Mead Making Wiki',
         logo: {
