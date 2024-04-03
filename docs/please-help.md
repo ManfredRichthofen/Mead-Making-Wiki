@@ -3,6 +3,7 @@ title: Please Help
 description: Add Later
 tags:
   - Guide
+sidebar_class_name: hidden
 ---
 
 ## Please Help!

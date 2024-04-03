@@ -68,7 +68,7 @@ Use a single space after sentences.
 
 Avoid the terms "Primary" and "Secondary," as they can be inexact and confusing for newbies.
 
-Read the [Please Help](/please_help) page, and keep it updated. If you are the primary author of an article, add it to
+Read the [Please Help](/please-help) page, and keep it updated. If you are the primary author of an article, add it to
 the "Proof Read" section.
 
 ### Directory Structure and Scope
@@ -136,13 +136,14 @@ present on the pages.
             If using subheading, plain text paragraphs (x1+ per Subheading).
 
 
-            ```
+```md title="Page Structure Example"
 ---
-title: Contributing
+title: Title of Page
 description: Short summary of page
 tags:
   - tag 1
   - tag 2
+date: 'optional'
 ---
 
   # Title
@@ -151,11 +152,17 @@ tags:
 
    ## Heading
 
+         Content
+
    ## Heading
 
-    ### Optional Subheading
+         Content
 
-            ```
+     ### Optional Subheading
+
+           Content
+
+```
 
 Be aware that subheadings are visually formatted exactly like italics, but automatically create a links in the page
 table of contents. Keep the headings short to keep the Table of Contents legible.
