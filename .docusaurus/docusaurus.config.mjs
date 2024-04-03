@@ -51,10 +51,10 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Docs"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://www.reddit.com/r/mead",
           "label": "Reddit",
           "position": "right"
         },
@@ -74,8 +74,8 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
-              "to": "/docs/intro"
+              "label": "Docs",
+              "to": "/intro"
             }
           ]
         },
@@ -84,7 +84,7 @@ export default {
           "items": [
             {
               "label": "Reddit",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+              "href": "https://www.reddit.com/r/mead"
             },
             {
               "label": "Discord",
@@ -102,7 +102,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2024 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2024 Mead Making Wiki. Built with Docusaurus."
     },
     "prism": {
       "theme": {

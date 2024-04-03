@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/jacob/Documents/GitHub/Mead-Making-Wiki/sidebars.js",
-          "contentPath": "/home/jacob/Documents/GitHub/Mead-Making-Wiki/docs",
-          "contentPathLocalized": "/home/jacob/Documents/GitHub/Mead-Making-Wiki/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "C:\\Users\\Jake\\Documents\\GitHub\\MeadMakingWiki\\sidebars.js",
+          "contentPath": "C:\\Users\\Jake\\Documents\\GitHub\\MeadMakingWiki\\docs",
+          "contentPathLocalized": "C:\\Users\\Jake\\Documents\\GitHub\\MeadMakingWiki\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "id": "faq/alternative_nutrient_sources",

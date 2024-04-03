@@ -70,10 +70,10 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://www.reddit.com/r/mead',
             label: 'Reddit',
             position: 'right',
           },
@@ -90,8 +90,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Docs',
+                to: '/intro',
               },
             ],
           },
@@ -100,7 +100,7 @@ const config = {
             items: [
               {
                 label: 'Reddit',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://www.reddit.com/r/mead',
               },
               {
                 label: 'Discord',
@@ -118,7 +118,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Mead Making Wiki. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
