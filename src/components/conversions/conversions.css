@@ -1,0 +1,62 @@
+/* Scoped CSS for the Conversions component */
+.conversions-container {
+    text-align: center;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: var(--conversions-container-bg, #fff); /* Default background color */
+    color: var(--conversions-container-color, #333); /* Default text color */
+    font-family: Arial, sans-serif;
+}
+
+.conversions-container[data-theme="dark"] {
+    --conversions-container-bg: #121212; /* Dark theme background color */
+    --conversions-container-color: #fff; /* Dark theme text color */
+}
+
+.conversions-container h1 {
+    margin-bottom: 20px;
+}
+
+.conversions-container .form {
+    margin-bottom: 20px;
+}
+
+.conversions-container label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.conversions-container select,
+.conversions-container input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.conversions-container button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.conversions-container button:hover {
+    background-color: #0056b3;
+}
+
+.conversions-container #result {
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
