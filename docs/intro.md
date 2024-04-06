@@ -32,7 +32,5 @@ Ingredients & Recipes: Dive into the world of flavors with our extensive collect
 
 Techniques & Tips: Elevate your brewing skills with expert techniques, tips for troubleshooting common issues, and best practices for fermentation, aging, and bottling.
 
-Community Forums: Connect with fellow mead enthusiasts, ask questions, share your experiences, and learn from a vibrant community of brewers.
-
 Additional Resources: Explore recommended books, videos, and external links to expand your knowledge and enhance your mead making journey.
 
