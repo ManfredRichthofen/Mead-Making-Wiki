@@ -105,17 +105,17 @@ Page names are in all _lower case_ letters.
 
 Proper names should also be lower case.
 
-Words are separated by hyphens anywhere there would be a space.
+Words are separated by underscores anywhere there would be a space.
 
 Remove punctuation entirely.
 
 - Example: /wiki/faq/hydrometers
 
-- Example: /wiki/faq/glass-vs-plastic
+- Example: /wiki/faq/glass_vs_plastic.md
 
-- Example: /wiki/mazers/curt-stock
+- Example: /wiki/mazers/curt_stock.md
 
-- Example: /wiki/meaderies/schramms-mead
+- Example: /wiki/meaderies/schramms_mead.md
 
 ### Translations
 
@@ -150,7 +150,7 @@ date: 'optional'
 
   # Title
 
-     Brief Introduction
+     Brief Introduction: Plain Text Paragraph
 
    ## Heading
 
@@ -158,11 +158,11 @@ date: 'optional'
 
    ## Heading
 
-         Content
+         Content (x1+ per Page)
 
-     ### Optional Subheading
+     ### Optional Subheading (x0+ per Heading) OR Plain Text Paragraphs/Bullets/List/Normal Reddit Syntax (x1+ per Heading)
 
-           Content
+           If using subheading, plain text paragraphs (x1+ per Subheading).
 
 ```
 
