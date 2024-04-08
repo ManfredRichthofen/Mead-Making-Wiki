@@ -3,7 +3,7 @@ title: Getting Started
 description: Add Later
 tags:
   - faq
-date: null
+date:
 ---
 
 ## I'm just getting started. What should I know?

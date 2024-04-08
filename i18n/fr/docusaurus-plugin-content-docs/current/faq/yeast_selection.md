@@ -3,7 +3,7 @@ title: Yeast
 description: Add Later
 tags:
   - faq
-date: null
+date:
 ---
 
 ## Where do I find yeast? What type should I use?

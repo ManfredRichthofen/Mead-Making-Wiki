@@ -3,7 +3,7 @@ title: Hydrometers
 description: Add Later
 tags:
   - faq
-date: null
+date:
 ---
 
 ## How do I use a hydrometer?

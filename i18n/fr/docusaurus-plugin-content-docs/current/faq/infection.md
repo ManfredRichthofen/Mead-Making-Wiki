@@ -3,7 +3,7 @@ title: Infections & Mold
 description: Add Later
 tags:
   - faq
-date: null
+date:
 ---
 
 ## I think my mead is infected!
@@ -26,13 +26,11 @@ _Common items that are typically **not** mold, nor any reason to panic:_
 
 _Items that may be mold:_
 
-```
-- Green or black clumps floating on the surface of the mead.
+    - Green or black clumps floating on the surface of the mead.
 
-- A white pellicle covering the entire surface of your mead or looks like spiderwebs on top of your mead.
+    - A white pellicle covering the entire surface of your mead or looks like spiderwebs on top of your mead.
 
-- Long snot like strands in the mead.
-```
+    - Long snot like strands in the mead.
 
 Please see the photographs at the bottom of this article for reference pictures.
 
@@ -55,11 +53,11 @@ _Items that may be mold:_
 
 ### Resources
 
-https\://homebrewsupply.com/learn/is-my-batch-infected.html
+https://homebrewsupply.com/learn/is-my-batch-infected.html
 
-http\://www\.milkthefunk.com/wiki/Mold
+http://www.milkthefunk.com/wiki/Mold
 
-***
+---
 
 ### Example Pictures
 

@@ -3,7 +3,7 @@ title: Chemicals
 description: Add Later
 tags:
   - faq
-date: null
+date:
 ---
 
 ## I'm concerned about using chemicals in my mead

@@ -3,7 +3,7 @@ title: LD Carlson Additives
 description: Add Later
 tags:
   - faq
-date: null
+date:
 ---
 
 ## How do I use the L.D. Carlson "Energizer" and "Nutrient" additives?
@@ -20,10 +20,10 @@ makes good experimentation and quantification nearly impossible.
 &gt;If I were I making an educated guesstimate, provided that we're talking about a **five gallon batch** I'd guess
 this:
 
-&gt;1 tsp of L.D. Carlson Nutrient adds \~40 PPM YAN. I guess this because it’s marked as containing DAP with Urea, so we
+&gt;1 tsp of L.D. Carlson Nutrient adds ~40 PPM YAN. I guess this because it’s marked as containing DAP with Urea, so we
 can assume it’s similar to DAP, which comes in at roughly 40 PPM YAN at this dose.
 
-&gt;1 tsp of L.D. Carlson Energizer adds \~20 PPM YAN. I guess this because it contains dead yeast hulls, magnesium
+&gt;1 tsp of L.D. Carlson Energizer adds ~20 PPM YAN. I guess this because it contains dead yeast hulls, magnesium
 sulphate, and DAP. This is similar to (but simpler than) Fermaid K’s composition. Fermaid K comes in at roughly 20 PPM
 YAN at this dose.
 
