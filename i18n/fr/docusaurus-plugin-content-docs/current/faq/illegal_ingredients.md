@@ -3,7 +3,7 @@ title: Illegal Ingredients
 description: Add Later
 tags:
   - faq
-date:
+date: null
 ---
 
 ## What if I want to add a controlled substance or otherwise illegal/questionable ingredient to my mead?

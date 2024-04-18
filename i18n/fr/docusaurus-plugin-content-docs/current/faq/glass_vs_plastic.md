@@ -3,7 +3,7 @@ title: Glass Vs. Plastic
 description: Add Later
 tags:
   - faq
-date:
+date: null
 ---
 
 ## Should I use glass or plastic?
