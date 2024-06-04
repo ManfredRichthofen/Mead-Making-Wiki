@@ -30,5 +30,17 @@
   "sidebar.tutorialSidebar.category.process": {
     "message": "process",
     "description": "The label for category process in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Guides": {
+    "message": "Guides",
+    "description": "The label for category Guides in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Ingredients": {
+    "message": "Ingredients",
+    "description": "The label for category Ingredients in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Process": {
+    "message": "Process",
+    "description": "The label for category Process in sidebar tutorialSidebar"
   }
 }
