@@ -3,7 +3,7 @@ title: Headspace
 description: Add Later
 tags:
   - faq
-date:
+date: null
 ---
 
 ## How much headspace is too much headspace? What do I do about it?

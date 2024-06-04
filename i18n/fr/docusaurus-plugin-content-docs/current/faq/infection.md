@@ -3,7 +3,7 @@ title: Infections & Mold
 description: Add Later
 tags:
   - faq
-date:
+date: null
 ---
 
 ## I think my mead is infected!
@@ -26,11 +26,13 @@ _Common items that are typically **not** mold, nor any reason to panic:_
 
 _Items that may be mold:_
 
-    - Green or black clumps floating on the surface of the mead.
+```
+- Green or black clumps floating on the surface of the mead.
 
-    - A white pellicle covering the entire surface of your mead or looks like spiderwebs on top of your mead.
+- A white pellicle covering the entire surface of your mead or looks like spiderwebs on top of your mead.
 
-    - Long snot like strands in the mead.
+- Long snot like strands in the mead.
+```
 
 Please see the photographs at the bottom of this article for reference pictures.
 
