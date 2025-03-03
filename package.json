@@ -34,7 +34,7 @@
     "@docusaurus/eslint-plugin": "^3.2.0",
     "@docusaurus/module-type-aliases": "^3.2.0",
     "@docusaurus/types": "^3.2.0",
-    "prettier": "3.3.2",
+    "prettier": "3.5.3",
     "remark-cli": "^12.0.0",
     "remark-preset-lint-consistent": "^6.0.0",
     "remark-preset-lint-recommended": "^7.0.0",
