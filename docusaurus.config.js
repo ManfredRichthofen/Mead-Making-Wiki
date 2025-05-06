@@ -35,7 +35,7 @@ const config = {
     locales: ['en', 'fr'],
   },
 
-  plugins: [require.resolve('docusaurus-lunr-search')],
+  plugins: [require.resolve('docusaurus-lunr-search'), "./src/plugins/tailwind-config.js",],
   
   presets: [
     [

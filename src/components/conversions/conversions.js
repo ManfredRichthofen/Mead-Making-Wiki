@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import './conversions.css'; // Import CSS file
 
 const conversions = {
   honey: {
@@ -55,26 +54,59 @@ function Conversions() {
   };
 
   return (
-    <div className="conversions-container">
-      <h1>Substance Conversions</h1>
-      <div className="form">
-        <label htmlFor="substance">Select Substance:</label>
-        <select id="substance" value={substance} onChange={({ target }) => setSubstance(target.value)}>
-          {Object.entries(conversions).map(([key]) => (
-            <option key={key} value={key}>{key}</option>
-          ))}
-        </select>
-        <label htmlFor="volume">Volume:</label>
-        <input type="text" id="volume" value={volume} onChange={({ target }) => setVolume(target.value)} placeholder="Enter volume"/>
-        <label htmlFor="unit">Unit:</label>
-        <select id="unit" value={unit} onChange={({ target }) => setUnit(target.value)}>
-          {defaultConversions && defaultConversions.map(({ unit }) => (
-            <option key={unit} value={unit}>{unit}</option>
-          ))}
-        </select>
-        <button onClick={convert}>Convert</button>
+    <div className="card w-96 bg-base-100 shadow-xl mx-auto">
+      <div className="card-body">
+        <h2 className="card-title text-2xl font-bold text-center mb-4">Substance Conversions</h2>
+        <div className="form-control w-full">
+          <label className="label">
+            <span className="label-text">Select Substance:</span>
+          </label>
+          <select 
+            className="select select-bordered w-full mb-4" 
+            value={substance} 
+            onChange={({ target }) => setSubstance(target.value)}
+          >
+            {Object.entries(conversions).map(([key]) => (
+              <option key={key} value={key}>{key}</option>
+            ))}
+          </select>
+
+          <label className="label">
+            <span className="label-text">Volume:</span>
+          </label>
+          <input 
+            type="text" 
+            className="input input-bordered w-full mb-4" 
+            value={volume} 
+            onChange={({ target }) => setVolume(target.value)} 
+            placeholder="Enter volume"
+          />
+
+          <label className="label">
+            <span className="label-text">Unit:</span>
+          </label>
+          <select 
+            className="select select-bordered w-full mb-4" 
+            value={unit} 
+            onChange={({ target }) => setUnit(target.value)}
+          >
+            {defaultConversions && defaultConversions.map(({ unit }) => (
+              <option key={unit} value={unit}>{unit}</option>
+            ))}
+          </select>
+
+          <button 
+            className="btn btn-primary w-full mb-4" 
+            onClick={convert}
+          >
+            Convert
+          </button>
+
+          <div className="alert">
+            <span>{result}</span>
+          </div>
+        </div>
       </div>
-      <div id="result">{result}</div>
     </div>
   );
 }
