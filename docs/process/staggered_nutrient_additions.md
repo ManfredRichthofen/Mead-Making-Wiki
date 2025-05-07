@@ -16,7 +16,7 @@ This is not a required aspect of mead making, but rather an improvement designed
 
 ### Background
 
-Mead must is, of course, so [nutrient deficient](/ingredients/nutrients) that mead makers have to supplement the must with a variety of substances, particularly yeast assimilable nitrogen (YAN), to give the yeast healthy enough conditions to ferment honey without producing off flavors. Yeast, unfortunately, aren't so great at rationing their supplies and enter a "feeding frenzy" in the sudden presence of abundance, causing the speed of [fermentation](/r/mead/wiki/process/fermentation) to increase. As fermentation is an exothermic process, this causes the temperature of the must to temporarily spike. The end result of a warmer ferment is an increase in the production of fusel alcohols which are responsible for the "hot," "jet fuel," or "young" taste in a new wine. Part of the aging process is to allow these to break down over time.
+Mead must is, of course, so [nutrient deficient](/ingredients/nutrients) that mead makers have to supplement the must with a variety of substances, particularly yeast assimilable nitrogen (YAN), to give the yeast healthy enough conditions to ferment honey without producing off flavors. Yeast, unfortunately, aren't so great at rationing their supplies and enter a "feeding frenzy" in the sudden presence of abundance, causing the speed of [fermentation](/process/fermentation) to increase. As fermentation is an exothermic process, this causes the temperature of the must to temporarily spike. The end result of a warmer ferment is an increase in the production of fusel alcohols which are responsible for the "hot," "jet fuel," or "young" taste in a new wine. Part of the aging process is to allow these to break down over time.
 
 ### The Idea
 
@@ -70,3 +70,18 @@ Nutrients:
 [Advanced Nutrients in Meadmaking](https://docs.google.com/document/d/11pW-dC91OupCYKX-zld73ckg9ximXwxbmpLFOqv6JEk/edit#!) - a white paper by /u/Balathustrius
 
 [MeadMakr BatchBuildr](http://www.meadmakr.com/batch-buildr/) - this tool will calculate the optimal amount of nutrients to add for your specific recipe
+
+The craft has changed considerably since the legalization of homebrewing in the US. Be wary of old information. This is
+especially true of information 10 or more years old.
+
+You might want to start with [The Basics](http://www.talisman.com/mead/meadfaq.html). Note, however, that heating the
+must has fallen out of favor of many meadmakers as a
+[pointless step.](http://www.homebrewersassociation.org/attachments/0000/1256/NDzym05_MasterMead.pdf) If you aren't
+heating anything, it takes a while to mix in the honey, but it will dissolve eventually. A drill with a mix-stir
+attachment makes this process _much_ faster.
+
+For a thorough and reliable reference, consider buying a copy of
+[The Compleat Meadmaker](http://www.amazon.com/The-Compleat-Meadmaker-Production-Award-winning/dp/0937381802) by Ken
+Schramm. It's due for an update, but it's still the densest source of meadmaking information in print. The most
+important updates are that author no longer heats most of his musts at all, and he uses
+[staggered nutrient additions](/process/staggered_nutrient_additions) (addressed below).

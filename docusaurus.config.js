@@ -1,8 +1,3 @@
-// @ts-check
-// `@type` JSDoc annotations allow editor autocompletion and type checking
-// (when paired with `@ts-check`).
-// There are various equivalent ways to declare your Docusaurus config.
-// See: https://docusaurus.io/docs/api/docusaurus-config
 import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 import {themes as prismThemes} from 'prism-react-renderer';
@@ -11,44 +6,33 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Mead Making Wiki',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
-
-  // Set the production url of your site here
+  favicon: 'img/honey-logo.svg',
   url: 'https://manfredrichthofen.github.io/',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'ManfredRichthofen', // Usually your GitHub org/user name.
-  projectName: 'Mead Making Wiki', // Usually your repo name.
-
+  organizationName: 'ManfredRichthofen',
+  projectName: 'Mead Making Wiki',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
+  // Add Language codes to the site
+
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'fr'],
   },
 
-  plugins: [require.resolve('docusaurus-lunr-search')],
-  
+  plugins: [
+    require.resolve('docusaurus-lunr-search'),
+    './src/plugins/tailwind-config.js'
+  ],
   presets: [
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          routeBasePath: '/',
-          sidebarPath: './sidebars.js',
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl: 'https://github.com/ManfredRichthofen/Mead-Making-Wiki/tree/main/',
         },
         blog: false,
@@ -72,13 +56,12 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Mead Making Wiki',
         logo: {
           alt: 'Logo',
-          src: 'img/logo.svg',
+          src: 'img/honey-logo.svg',
         },
         items: [
           {
@@ -100,7 +83,7 @@ const config = {
             items: [
               {
                 label: 'Docs',
-                to: '/',
+                to: '/docs',
               },
             ],
           },

@@ -73,30 +73,18 @@ the "Proof Read" section.
 
 ### Directory Structure and Scope
 
-Most pages should be placed in a directory or subdirectory. Please see the wiki [sitemap](http://www.reddit.com//pages)
-to figure out what directories already exist. Use your best judgement. If you're unsure, ask the mods or an approved
+Most pages should be placed in a directory or subdirectory. Please see the wiki [sitemap](/docs) to figure out what directories already exist. Use your best judgement. If you're unsure, ask the mods or an approved
 editor before creating the page. If a subject arguably belongs in more than one place, it's acceptable to duplicate
 basic information and links across multiple pages. Use thoughtful judgement about when to link to another page vs when
 to reproduce information.
 
-- Example: If writing about spices, it probably goes under /wiki/**ingredients**/herbs_and_spices.
+- Example (one directory): **ingredients**/fruit - **OK.** This page is a broad overview of common fruit in meadmaking.
 
-- Example: If writing about temperature because you've seen it asked 3 times in the last week, it probably belongs under
-  /wiki/**faq**/fermentation_temperature, but it might _also_ belong in /wiki/**process**/fermentation
-
-- Meta pages (like this one) belong in the top level (/wiki), along with the wiki landing page. Very few such pages
-  should exist. If a meta page is no longer useful, it should be de-listed.
-
-Scope refers to how many directories deep you have to go to reach the page. For the time being, limit the structure to
-two layers of scope. Rule of thumb: "Less scope is better."
-
-- Example (one directory): /wiki/ingredients/fruit- **OK.** This page is a broad overview of common fruit in meadmaking.
-
-- Example (two directories): /wiki/ingredients/fruit/cherries - **OK, but** consider making this a heading under /fruit
+- Example (two directories): **ingredients**/fruit/cherries - **OK, but** consider making this a heading under /fruit
   instead of a new page. This page should only be created if the poster wants to post information about several specific
   varieties of cherries as they relate to mead making.
 
-- Example (three directories): /wiki/ingredients/fruit/cherries/balaton - **BAD.** There is no justification for this
+- Example (three directories): **ingredients**/fruit/cherries/balaton - **BAD.** There is no justification for this
   unless your name is Ken Schramm.
 
 ### Naming Conventions for Directories and Links
@@ -109,13 +97,13 @@ Words are separated by underscores anywhere there would be a space.
 
 Remove punctuation entirely.
 
-- Example: /wiki/faq/hydrometers
+- Example: **faq**/hydrometers
 
-- Example: /wiki/faq/glass_vs_plastic.md
+- Example: **faq**/glass_vs_plastic
 
-- Example: /wiki/mazers/curt_stock.md
+- Example: **mazers**/curt_stock
 
-- Example: /wiki/meaderies/schramms_mead.md
+- Example: **meaderies**/schramms_mead
 
 ### Translations
 
