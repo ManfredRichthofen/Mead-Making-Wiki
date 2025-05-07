@@ -26,7 +26,7 @@ For a thorough and reliable reference, consider buying a copy of
 [The Compleat Meadmaker](http://www.amazon.com/The-Compleat-Meadmaker-Production-Award-winning/dp/0937381802) by Ken
 Schramm. It's due for an update, but it's still the densest source of meadmaking information in print. The most
 important updates are that author no longer heats most of his musts at all, and he uses
-[staggered nutrient additions](/resources/staggered_nutrient_additions) (addressed below).
+[staggered nutrient additions](/process/staggered_nutrient_additions) (addressed below).
 
 The [BJCP Mead Exam Resource page](http://www.bjcp.org/mead.php) has links to articles on a variety of related topics.
 Some of it is very old, but luckily most of the links are dated in some way.
@@ -67,11 +67,11 @@ contain them. Roses, for example, make _rhodomel_.
 
 ### Tips for your First Meads
 
-Try one of the Beginner recipes found [here](recipes/beginner-recipes/)!
+Try one of the Beginner recipes found [here](/recipes/beginner-recipes)!
 
 A number of recipes found online call for bread yeast. If you've brewed before, you know just how big of a difference
 the right [yeast](/ingredients/yeast) and yeast handling can make. Think twice before using bread yeast. Instead, use a
-[yeast](/r/mead/wiki/ingredients/yeast) more suitable to mead, and take the minimum steps to ensure a healthy pitch.
+[yeast](/ingredients/yeast) more suitable to mead, and take the minimum steps to ensure a healthy pitch.
 
 You may see people talking about [aeration](/process/aeration) during fermentation. Mead benefits from aeration (adding
 O2) and degassing (removing CO2) the must for the first third (or so) of fermentation - speaking in terms of the drop in

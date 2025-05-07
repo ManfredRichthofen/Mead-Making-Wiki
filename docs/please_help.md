@@ -11,7 +11,8 @@ sidebar_class_name: hidden
 **Add ~~strikethrough~~ (\~~double tilde\~~) to an item that has been completed.** (A moderator will remove completed
 items from this list.)
 
-**Please read the [guidelines](/wiki_editing_guidelines) before editing.**
+**Please refer to the [Editing Guidelines](/contributing) before editing this wiki. If you abuse editing privileges, you will lose
+them.**
 
 ### Proof Read / Reformat
 

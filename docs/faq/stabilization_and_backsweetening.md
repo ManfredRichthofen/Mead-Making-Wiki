@@ -36,7 +36,7 @@ flavors in your wine, so read the packaging carefully.
 
 To use these products, it will usually suffice to follow the directions on the package, but please see the
 [Via Chemical Additives](/process/stabilization#via_chemical_additives) section on this wiki's
-[Stabilization](/r/mead/wiki/process/stabilization) page for more detailed information. It's a good idea, but not always
+[Stabilization](/process/stabilization) page for more detailed information. It's a good idea, but not always
 necessary, to wait a few hours or overnight between adding the stabilization chemicals and back sweetening (if so
 desired).
 

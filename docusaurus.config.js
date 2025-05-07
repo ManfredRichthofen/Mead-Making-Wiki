@@ -6,7 +6,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Mead Making Wiki',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/honey-logo.svg',
   url: 'https://manfredrichthofen.github.io/',
   baseUrl: '/',
   organizationName: 'ManfredRichthofen',
@@ -61,7 +61,7 @@ const config = {
         title: 'Mead Making Wiki',
         logo: {
           alt: 'Logo',
-          src: 'img/logo.svg',
+          src: 'img/honey-logo.svg',
         },
         items: [
           {
