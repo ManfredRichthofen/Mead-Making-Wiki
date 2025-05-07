@@ -1,5 +1,5 @@
 ---
-slug: /
+slug: /docs
 pagination_next: null
 pagination_prev: null
 sidebar_class_name: hidden
